@@ -1,0 +1,3923 @@
+[
+    {
+        "film": "Gladiator",
+        "date": 2000,
+        "genre": [
+            "Péplum",
+            "Drame"
+        ],
+        "acteur": [
+            {
+            "nom": "Russell Crowe",
+            "lien": "https://fr.wikipedia.org/wiki/Russell_Crowe#/media/Fichier:Russell_Crowe_on_the_Green_Carpet_at_the_2025_Zurich_Film_Festival_06_(cropped).jpg"
+            },
+            {
+            "nom": "Joaquin Phoenix",
+            "lien": "https://fr.wikipedia.org/wiki/Joaquin_Phoenix#/media/Fichier:Joaquin_Phoenix-64987_(cropped).jpg"
+            },
+            {
+            "nom": "Connie Nielsen",
+            "lien": "https://fr.wikipedia.org/wiki/Connie_Nielsen#/media/Fichier:Connie_Nielsen_by_Gage_Skidmore.jpg"
+            },
+            {
+            "nom": "Oliver Reed",
+            "lien": "https://fr.wikipedia.org/wiki/Oliver_Reed#/media/Fichier:Oliver_Reed_1968.jpg"
+            },
+            {
+            "nom": "Djimon Hounsou",
+            "lien": "https://fr.wikipedia.org/wiki/Djimon_Hounsou#/media/Fichier:Djimon_Hounsou_(26037613412).jpg"
+            },
+            {
+            "nom": "Richard Harris",
+            "lien": "https://fr.wikipedia.org/wiki/Richard_Harris_(acteur)#/media/Fichier:Richard_Harris_1985.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Memento",
+        "date": 2000,
+        "genre": [
+            "Psychologique",
+            "Néo-noir"
+        ],
+        "acteur": [
+            {
+            "nom": "Guy Pearce",
+            "lien": "https://fr.wikipedia.org/wiki/Guy_Pearce#/media/Fichier:Crew_members_of_the_movie_%22Genius%22_at_the_Berlinale_party_(25036107966)_(cropped).jpg"
+            },
+            {
+            "nom": "Carrie-Anne Moss",
+            "lien": "https://fr.wikipedia.org/wiki/Carrie-Anne_Moss#/media/Fichier:Carrie-Anne_Moss_May_2016.jpg"
+            },
+            {
+            "nom": "Joe Pantoliano",
+            "lien": "https://fr.wikipedia.org/wiki/Joe_Pantoliano#/media/Fichier:JoePantolianoFeb2009.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Snatch tu Braques ou tu Raques",
+        "date": 2000,
+        "genre": [
+            "Comédie noire",
+            "Heist"
+        ],
+        "acteur": [
+            {
+            "nom": "Jason Statham",
+            "lien": "https://fr.wikipedia.org/wiki/Jason_Statham#/media/Fichier:Jason_Statham_2018.jpg"
+            },
+            {
+            "nom": "Brad Pitt",
+            "lien": "https://fr.wikipedia.org/wiki/Brad_Pitt#/media/Fichier:Brad_Pitt-69858.jpg"
+            },
+            {
+            "nom": "Stephen Graham",
+            "lien": "https://fr.wikipedia.org/wiki/Stephen_Graham#/media/Fichier:Stephen_Graham_Springsteen-23_(cropped).jpg"
+            },
+            {
+            "nom": "Alan Ford",
+            "lien": "https://hitchhikers.fandom.com/wiki/Alan_Ford?file=AlanFord.jpg"
+            },
+            {
+            "nom": "Benicio Del Toro",
+            "lien": "https://fr.wikipedia.org/wiki/Benicio_del_Toro#/media/Fichier:Benicio_del_Toro-7624.jpg"
+            },
+            {
+            "nom": "Vinnie Jones",
+            "lien": "https://fr.wikipedia.org/wiki/Vinnie_Jones#/media/Fichier:Vinnie_Jones_circa_2013.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Requiem for a Dream",
+        "date": 2000,
+        "genre": [
+            "Drame",
+            "Psychologique"
+        ],
+        "acteur": [
+            {
+            "nom": "Ellen Burstyn",
+            "lien": "https://fr.wikipedia.org/wiki/Ellen_Burstyn#/media/Fichier:Ellen_Burstyn_2009_portrait_(cropped).jpg"
+            },
+            {
+            "nom": "Jared Leto",
+            "lien": "https://fr.wikipedia.org/wiki/Jared_Leto#/media/Fichier:Jared_Leto_by_Gage_Skidmore_2.jpg"
+            },
+            {
+            "nom": "Jennifer Connelly",
+            "lien": "https://fr.wikipedia.org/wiki/Jennifer_Connelly#/media/Fichier:Jennifer_Connelly_2010_TIFF.jpg"
+            },
+            {
+            "nom": "Marlon Wayans",
+            "lien": "https://fr.wikipedia.org/wiki/Marlon_Wayans#/media/Fichier:Marlonwayans.JPG"
+            }
+        ]
+    },
+    {
+        "film": "American Psycho",
+        "date": 2000,
+        "genre": [
+            "Comédie noire",
+            "Psychologique"
+        ],
+        "acteur": [
+            {
+            "nom": "Christian Bale",
+            "lien": "https://fr.wikipedia.org/wiki/Christian_Bale#/media/Fichier:Christian_Bale-7837.jpg"
+            },
+            {
+            "nom": "Willem Dafoe",
+            "lien": "https://fr.wikipedia.org/wiki/Willem_Dafoe#/media/Fichier:Willem_Dafoe_at_78th_Locarno_Film_Festival.jpg"
+            },
+            {
+            "nom": "Jared Leto",
+            "lien": "https://fr.wikipedia.org/wiki/Jared_Leto#/media/Fichier:Jared_Leto_by_Gage_Skidmore_2.jpg"
+            },
+             {
+            "nom": "Chloe Sevigny",
+            "lien": "https://fr.wikipedia.org/wiki/Chlo%C3%AB_Sevigny#/media/Fichier:Chloe_Sevigny_2025_Venice_Film_Festival.jpg"
+            },
+            {
+            "nom": "Reese Witherspoon",
+            "lien": "https://fr.wikipedia.org/wiki/Reese_Witherspoon#/media/Fichier:Reese_Witherspoon_at_TIFF_2014.jpg"
+            }
+        ]
+    },
+    {
+        "film": "X-men",
+        "date": 2000,
+        "genre": [
+            "Super-héros",
+            "Action"
+        ],
+        "acteur": [
+            {
+            "nom": "Hugh Jackman",
+            "lien": "https://fr.wikipedia.org/wiki/Hugh_Jackman#/media/Fichier:Hugh_Jackman_Is_This_Thing_On-68_(cropped).jpg"
+            },
+            {
+            "nom": "Patrick Stewart",
+            "lien": "https://fr.wikipedia.org/wiki/Patrick_Stewart#/media/Fichier:PatrickStew211023_(3_of_23)_(53275039331)_(cropped).jpg"
+            },
+            {
+            "nom": "Ian McKellen",
+            "lien": "https://fr.wikipedia.org/wiki/Ian_McKellen#/media/Fichier:SDCC13_-_Ian_McKellen.jpg"
+            },
+            {
+            "nom": "Anna Paquin",
+            "lien": "https://fr.wikipedia.org/wiki/Anna_Paquin#/media/Fichier:AnnaPaquinToronto2018.jpg"
+            },
+            {
+            "nom": "Famke Janssen",
+            "lien": "https://fr.wikipedia.org/wiki/Famke_Janssen#/media/Fichier:Famke_Janssen_by_Gage_Skidmore_2.jpg"
+            },
+            {
+            "nom": "Halle Berry",
+            "lien": "https://fr.wikipedia.org/wiki/Halle_Berry#/media/Fichier:Halle_Berry-0356_(cropped).jpg"
+            },
+             {
+            "nom": "James Marsden",
+            "lien": "https://fr.wikipedia.org/wiki/James_Marsden#/media/Fichier:James_Marsden_by_Gage_Skidmore.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Seul au Monde",
+        "date": 2000,
+        "genre": [
+            "Survie",
+            "Drame"
+        ],
+        "acteur": [
+            {
+            "nom": "Tom Hanks",
+            "lien": "https://fr.wikipedia.org/wiki/Tom_Hanks#/media/Fichier:TomHanksPrincEdw031223_(11_of_41)_(cropped).jpg"
+            }
+        ]
+    },
+    {
+        "film": "Incassable",
+        "date": 2000,
+        "genre": [
+            "Thriller",
+            "Psychologique",
+            "Néo-noir"
+        ],
+        "acteur": [
+            {
+            "nom": "Bruce Willis",
+            "lien": "https://fr.wikipedia.org/wiki/Bruce_Willis#/media/Fichier:Bruce_Willis_by_Gage_Skidmore_3.jpg"
+            },
+            {
+            "nom": "Samuel L. Jackson",
+            "lien": "https://fr.wikipedia.org/wiki/Samuel_L._Jackson#/media/Fichier:SamuelLJackson.jpg"
+            },
+            {
+            "nom": "Robin Wright",
+            "lien": "https://fr.wikipedia.org/wiki/Robin_Wright#/media/Fichier:Robin_Wright_Cannes_2017.jpg"
+            },
+             {
+            "nom": "Charlayne Woodard",
+            "lien": "https://en.wikipedia.org/wiki/Charlayne_Woodard#/media/File:Charlayne_Woodard_in_Around_the_Fire_trailer.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Mission Impossible 2",
+        "date": 2000,
+        "genre": [
+            "Action",
+            "Espionnage"
+        ],
+        "acteur": [
+            {
+            "nom": "Tom Cruise",
+            "lien": "https://fr.wikipedia.org/wiki/Tom_Cruise#/media/Fichier:CROP_Tom_Cruise_during_the_2025_Cannes_Film_Festival_03.png"
+            },
+            {
+            "nom": "Dougray Scott",
+            "lien": "https://fr.wikipedia.org/wiki/Dougray_Scott#/media/Fichier:Dougray_Scott_at_Tiff_2023.jpg"
+            },
+            {
+            "nom": "Thandiwe Newton",
+            "lien": "https://fr.wikipedia.org/wiki/Thandiwe_Newton#/media/Fichier:Thandie_Newton_by_Gage_Skidmore_2.jpg"
+            },
+            {
+            "nom": "Ving Rhames",
+            "lien": "https://fr.wikipedia.org/wiki/Ving_Rhames#/media/Fichier:Ving_Rhames_2010_(4710601891)_(cropped).jpg"
+            }
+        ]
+    },
+    {
+        "film": "Mon Beau-père et Moi",
+        "date": 2000,
+        "genre": [
+            "Comédie",
+            "Comédie noire"
+        ],
+        "acteur": [
+            {
+            "nom": "Ben Stiller",
+            "lien": "https://fr.wikipedia.org/wiki/Ben_Stiller#/media/Fichier:Ben_Stiller_at_the_2024_Toronto_International_Film_Festival_(cropped).jpg"
+            },
+            {
+            "nom": "Robert De Niro",
+            "lien": "https://fr.wikipedia.org/wiki/Robert_De_Niro#/media/Fichier:Robert_De_Niro_at_Cannes_2025_at_a_Photocall_06.jpg"
+            },
+            {
+            "nom": "Teri Polo",
+            "lien": "https://fr.wikipedia.org/wiki/Teri_Polo#/media/Fichier:Teri_Polo_2014_crop.jpg"
+            },
+            {
+            "nom": "Blythe Danner",
+            "lien": "https://fr.wikipedia.org/wiki/Blythe_Danner#/media/Fichier:Blythe_Danner_at_Met_Opera.jpg"
+            },
+            {
+            "nom": "Owen Wilson",
+            "lien": "https://fr.wikipedia.org/wiki/Owen_Wilson#/media/Fichier:Owen_Wilson_2017_Daytona_500.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Le Seigneur des Anneaux, La Communauté de l'Anneau",
+        "date": 2001,
+        "genre": [
+            "Heroic Fantasy",
+            "Aventure"
+        ],
+        "acteur": [
+            {
+            "nom": "Elijah Wood",
+            "lien": "https://fr.wikipedia.org/wiki/Elijah_Wood#/media/Fichier:Elijah_Wood_at_the_2025_Sundance_Film_Festival.jpg"
+            },
+            {
+            "nom": "Ian McKellen",
+            "lien": "https://fr.wikipedia.org/wiki/Ian_McKellen#/media/Fichier:SDCC13_-_Ian_McKellen.jpg"
+            },
+            {
+            "nom": "Viggo Mortensen",
+            "lien": "https://fr.wikipedia.org/wiki/Viggo_Mortensen#/media/Fichier:Viggo_Mortensen,_director_y_actor,_en_AWFF_2024_(cropped).jpg"
+            },
+            {
+            "nom": "Sean Astin",
+            "lien": "https://fr.wikipedia.org/wiki/Sean_Astin#/media/Fichier:Sean_Astin_at_Rose_City_Comic_Con_02_(cropped).jpg"
+            },
+            {
+            "nom": "Sean Bean",
+            "lien": "https://fr.wikipedia.org/wiki/Sean_Bean#/media/Fichier:Sean_Bean_Anemone-25_(cropped).jpg"
+            },
+            {
+            "nom": "Christopher Lee",
+            "lien": "https://fr.wikipedia.org/wiki/Christopher_Lee#/media/Fichier:Christopher_Lee,_Women's_World_Awards_2009_(cropped).jpg"
+            },
+            {
+            "nom": "Orlando Bloom",
+            "lien": "https://fr.wikipedia.org/wiki/Orlando_Bloom#/media/Fichier:Orlando_Bloom_at_the_2024_Toronto_International_Film_Festival_(cropped2).jpg"
+            },
+            {
+            "nom": "John Rhys-Davies",
+            "lien": "https://fr.wikipedia.org/wiki/John_Rhys-Davies#/media/Fichier:John_Rhys-Davies_Photo_Op_GalaxyCon_Richmond_2023.jpg"
+            },
+            {
+            "nom": "Billy Boyd",
+            "lien": "https://fr.wikipedia.org/wiki/Billy_Boyd_(acteur)#/media/Fichier:Billy_Boyd_(14057866305).jpg"
+            },
+             {
+            "nom": "Dominic Monaghan",
+            "lien": "https://fr.wikipedia.org/wiki/Dominic_Monaghan#/media/Fichier:Dominic_Monaghan_2003.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Un Homme d'Exception",
+        "date": 2001,
+        "genre": [
+            "Biopic",
+            "Drame",
+            "Psychologique"
+        ],
+        "acteur": [
+            {
+            "nom": "Russell Crowe",
+            "lien": "https://fr.wikipedia.org/wiki/Russell_Crowe#/media/Fichier:Russell_Crowe_on_the_Green_Carpet_at_the_2025_Zurich_Film_Festival_06_(cropped).jpg"
+            },
+            {
+            "nom": "Jennifer Connelly",
+            "lien": "https://fr.wikipedia.org/wiki/Jennifer_Connelly#/media/Fichier:Jennifer_Connelly_2010_TIFF.jpg"
+            },
+            {
+            "nom": "Ed Harris",
+            "lien": "https://fr.wikipedia.org/wiki/Ed_Harris#/media/Fichier:Ed_Harris_by_Gage_Skidmore.jpg"
+            },
+            {
+            "nom": "Paul Bettany",
+            "lien": "https://fr.wikipedia.org/wiki/Paul_Bettany#/media/Fichier:Paul_Bettany_-_Los_Angeles_Comic_Con_2025.jpg"
+            },
+            {
+            "nom": "Christopher Plummer",
+            "lien": "https://fr.wikipedia.org/wiki/Christopher_Plummer#/media/Fichier:Christopher_Plummer_2014.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Harry Potter à l'Ecole des Sorciers",
+        "date": 2001,
+        "genre": [
+            "Fantastique",
+            "Fantaisie"
+        ],
+        "acteur": [
+            {
+            "nom": "Daniel Radcliffe",
+            "lien": "https://fr.wikipedia.org/wiki/Daniel_Radcliffe#/media/Fichier:DanielRadcliffe.jpg"
+            },
+            {
+            "nom": "Emma Watson",
+            "lien": "https://fr.wikipedia.org/wiki/Emma_Watson#/media/Fichier:Emma_Watson_in_September_2025_in_an_interview_for_Jay_Shetty_Podcast_(Youtube_channel).jpg"
+            },
+            {
+            "nom": "Rupert Grint",
+            "lien": "https://fr.wikipedia.org/wiki/Rupert_Grint#/media/Fichier:Rupert_Grint_at_Berlin_Film_Festival_2026,_(P1230719).jpg"
+            },
+            {
+            "nom": "Tom Felton",
+            "lien": "https://fr.wikipedia.org/wiki/Tom_Felton#/media/Fichier:Tom_Felton_at_the_2025_Toronto_International_Film_Festival_(cropped).jpg"
+            },
+            {
+            "nom": "Richard Harris",
+            "lien": "https://fr.wikipedia.org/wiki/Richard_Harris_(acteur)#/media/Fichier:Richard_Harris_1985.jpg"
+            },
+            {
+            "nom": "Maggie Smith",
+            "lien": "https://fr.wikipedia.org/wiki/Maggie_Smith#/media/Fichier:Maggie_Smith_-_Vintage_(trim).jpg"
+            },
+            {
+            "nom": "Robbie Coltrane",
+            "lien": "https://fr.wikipedia.org/wiki/Robbie_Coltrane#/media/Fichier:Robbiecoltranecrop.jpg"
+            },
+            {
+            "nom": "Alan Rickman",
+            "lien": "https://fr.wikipedia.org/wiki/Alan_Rickman#/media/Fichier:Alan_Rickman_after_Seminar_(3).jpg"
+            },
+            {
+            "nom": "Ian Hart",
+            "lien": "https://fr.wikipedia.org/wiki/Ian_Hart#/media/Fichier:Ian_Hart_2016.png"
+            }
+        ]
+    },
+    {
+        "film": "Donnie Darko",
+        "date": 2001,
+        "genre": [
+            "Thriller",
+            "Psychologique",
+            "Science-fiction"
+        ],
+        "acteur": [
+            {
+            "nom": "Jake Gyllenhaal",
+            "lien": "https://fr.wikipedia.org/wiki/Jake_Gyllenhaal#/media/Fichier:Jake_Gyllenhaal_2019_by_Glenn_Francis.jpg"
+            },
+            {
+            "nom": "Maggie Gyllenhaal",
+            "lien": "https://fr.wikipedia.org/wiki/Maggie_Gyllenhaal#/media/Fichier:Maggie_Gyllenhaal_2021.jpg"
+            },
+            {
+            "nom": "Jena Malone",
+            "lien": "https://fr.wikipedia.org/wiki/Jena_Malone#/media/Fichier:Jena_Malone_Deauville.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Le Fabuleux Destin d'Amélie Poulain",
+        "date": 2001,
+        "genre": [
+            "Comédie",
+            "Romance",
+            "Fantastique"
+        ],
+        "acteur": [
+            {
+            "nom": "Audrey Tatou",
+            "lien": "https://fr.wikipedia.org/wiki/Audrey_Tautou#/media/Fichier:Audrey_Tautou_janvier_2016.jpg"
+            },
+            {
+            "nom": "Mathieu Kassovitz",
+            "lien": "https://fr.wikipedia.org/wiki/Mathieu_Kassovitz#/media/Fichier:Mathieu_Kassovitz_Cannes_2017.jpg"
+            },
+            {
+            "nom": "Jamel Debbouze",
+            "lien": "https://fr.wikipedia.org/wiki/Jamel_Debbouze#/media/Fichier:Festival_des_Vieilles_Charrues_2019_-_Jamel_Debbouze_-_010.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Ocean's Eleven",
+        "date": 2001,
+        "genre": [
+            "Action",
+            "Heist"
+        ],
+        "acteur": [
+            {
+            "nom": "George Clooney",
+            "lien": "https://fr.wikipedia.org/wiki/George_Clooney#/media/Fichier:George_Clooney_Jay_Kelly-19.jpg"
+            },
+            {
+            "nom": "Brad Pitt",
+            "lien": "https://fr.wikipedia.org/wiki/Brad_Pitt#/media/Fichier:Brad_Pitt-69858.jpg"
+            },
+            {
+            "nom": "Julia Roberts",
+            "lien": "https://fr.wikipedia.org/wiki/Julia_Roberts#/media/Fichier:Julia_Roberts_2025_(cropped).jpg"
+            },
+            {
+            "nom": "Matt Damon",
+            "lien": "https://fr.wikipedia.org/wiki/Matt_Damon#/media/Fichier:Matt_Damon_at_Berlinale_2024_Ausschnitt.jpg"
+            },
+            {
+            "nom": "Andy Garcia",
+            "lien": "https://fr.wikipedia.org/wiki/Andy_Garcia#/media/Fichier:25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Andy_Garc%C3%ADa_-_240422_184838-2_(cropped).jpg"
+            },
+            {
+            "nom": "Bernie Mac",
+            "lien": "https://fr.wikipedia.org/wiki/Bernie_Mac#/media/Fichier:BernieMacTransformersPremiereJune07.jpg"
+            },
+            {
+            "nom": "Casey Affleck",
+            "lien": "https://fr.wikipedia.org/wiki/Casey_Affleck#/media/Fichier:Casey_Affleck_in_2018.jpg"
+            },
+            {
+            "nom": "Don Cheadle",
+            "lien": "https://fr.wikipedia.org/wiki/Don_Cheadle#/media/Fichier:Don_Cheadle_at_Jimmy_Kimmel_Live!_(cropped).jpg"
+            }
+        ]
+    },
+    {
+        "film": "Training Day",
+        "date": 2001,
+        "genre": [
+            "Policier",
+            "Thriller",
+            "Néo-noir"
+        ],
+        "acteur": [
+            {
+            "nom": "Denzel Washington",
+            "lien": "https://fr.wikipedia.org/wiki/Denzel_Washington#/media/Fichier:Denzel_Washington_at_the_2025_Cannes_Film_Festival.jpg"
+            },
+            {
+            "nom": "Ethan Hawke",
+            "lien": "https://fr.wikipedia.org/wiki/Ethan_Hawke#/media/Fichier:Ethan_Hawke_Blue_Moon-28_(cropped).jpg"
+            },
+            {
+            "nom": "Scott Glenn",
+            "lien": "https://fr.wikipedia.org/wiki/Scott_Glenn#/media/Fichier:Scott_Glenn_2011_Shankbone.JPG"
+            },
+            {
+            "nom": "Eva Mendes",
+            "lien": "https://fr.wikipedia.org/wiki/Eva_Mendes#/media/Fichier:Eva_Mendes_2009.jpg"
+            },
+            {
+            "nom": "Snoop Dogg",
+            "lien": "https://fr.wikipedia.org/wiki/Snoop_Dogg#/media/Fichier:Snoop_Dogg_2019_by_Glenn_Francis.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Fast & Furious",
+        "date": 2001,
+        "genre": [
+            "Action",
+            "Thriller",
+            "Policier",
+            "Heist"
+        ],
+        "acteur": [
+            {
+            "nom": "Vin Diesel",
+            "lien": "https://fr.wikipedia.org/wiki/Vin_Diesel#/media/Fichier:Vin_Diesel_2017.jpg"
+            },
+            {
+            "nom": "Paul Walker",
+            "lien": "https://fr.wikipedia.org/wiki/Paul_Walker#/media/Fichier:PaulWalkerEdit-1.jpg"
+            },
+            {
+            "nom": "Michelle Rodriguez",
+            "lien": "https://fr.wikipedia.org/wiki/Michelle_Rodriguez_(actrice)#/media/Fichier:Michelle_Rodriguez_Cannes_2018.jpg"
+            },
+            {
+            "nom": "Jordana Brewster",
+            "lien": "https://fr.wikipedia.org/wiki/Jordana_Brewster#/media/Fichier:Jordana_Brewster_at_PaleyFest_2013_2.jpg"
+            },
+            {
+            "nom": "Matt Schulze",
+            "lien": "https://fastandfurious.fandom.com/fr/wiki/Matt_Schulze?file=Matt_Schulze.jpg"
+            },
+            {
+            "nom": "Rick Yune",
+            "lien": "https://fr.wikipedia.org/wiki/Rick_Yune#/media/Fichier:Rickyune.jpg"
+            }
+        ]
+    },
+    {
+        "film": "La Chute du Faucon Noir",
+        "date": 2001,
+        "genre": [
+            "Historique",
+            "Guerre",
+            "Action"
+        ],
+        "acteur": [
+            {
+            "nom": "Josh Hartnett",
+            "lien": "https://fr.wikipedia.org/wiki/Josh_Hartnett#/media/Fichier:Josh_Hartnett_SDCC_2014.jpg"
+            },
+            {
+            "nom": "Eric Bana",
+            "lien": "https://fr.wikipedia.org/wiki/Eric_Bana#/media/Fichier:Eric_Bana_2014_WonderCon_(cropped).jpg"
+            },
+            {
+            "nom": "Ewan Mcgregor",
+            "lien": "https://fr.wikipedia.org/wiki/Ewan_McGregor#/media/Fichier:Ewan_McGregor_-_Los_Angeles_Comic_Con_2024.jpg"
+            },
+            {
+            "nom": "Tom Sizemore",
+            "lien": "https://fr.wikipedia.org/wiki/Tom_Sizemore#/media/Fichier:Tom_Sizemore_by_Jean_Claude_Vera_in_April_2011.jpg"
+            },
+            {
+            "nom": "Sam Shepard",
+            "lien": "https://fr.wikipedia.org/wiki/Sam_Shepard#/media/Fichier:Sam_Shepard_Stealth_cropped.JPG"
+            },
+            {
+            "nom": "William Fichtner",
+            "lien": "https://fr.wikipedia.org/wiki/William_Fichtner#/media/Fichier:WilliamFichtnerHSApr2011.jpg"
+            },
+            {
+            "nom": "Orlando Bloom",
+            "lien": "https://fr.wikipedia.org/wiki/Orlando_Bloom#/media/Fichier:Orlando_Bloom_at_the_2024_Toronto_International_Film_Festival_(cropped2).jpg"
+            },
+            {
+            "nom": "Tom Hardy",
+            "lien": "https://fr.wikipedia.org/wiki/Tom_Hardy#/media/Fichier:Tom_Hardy_by_Gage_Skidmore_in_2018.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Mulholland",
+        "date": 2001,
+        "genre": [
+            "Néo-noir",
+            "Thriller"
+        ],
+        "acteur": [
+            {
+            "nom": "Naomi Watts",
+            "lien": "https://fr.wikipedia.org/wiki/Naomi_Watts#/media/Fichier:Naomi_Watts_at_the_2024_New_York_Film_Festival_3_(cropped).jpg"
+            },
+            {
+            "nom": "Laura Elena Harring",
+            "lien": "https://fr.wikipedia.org/wiki/Laura_Harring#/media/Fichier:Laura_Harring_2011.jpg"
+            },
+            {
+            "nom": "Justin Theroux",
+            "lien": "https://fr.wikipedia.org/wiki/Justin_Theroux#/media/Fichier:Justin_Theroux-63738.jpg"
+            },
+            {
+            "nom": "Ann Miller",
+            "lien": "https://fr.wikipedia.org/wiki/Ann_Miller#/media/Fichier:Ann_Miller_1957.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Le Seigneur des Anneaux, Les deux Tours",
+        "date": 2002,
+        "genre": [
+            "Heroic Fantasy",
+            "Aventure"
+        ],
+        "acteur": [
+            {
+            "nom": "Elijah Wood",
+            "lien": "https://fr.wikipedia.org/wiki/Elijah_Wood#/media/Fichier:Elijah_Wood_at_the_2025_Sundance_Film_Festival.jpg"
+            },
+            {
+            "nom": "Ian McKellen",
+            "lien": "https://fr.wikipedia.org/wiki/Ian_McKellen#/media/Fichier:SDCC13_-_Ian_McKellen.jpg"
+            },
+            {
+            "nom": "Viggo Mortensen",
+            "lien": "https://fr.wikipedia.org/wiki/Viggo_Mortensen#/media/Fichier:Viggo_Mortensen,_director_y_actor,_en_AWFF_2024_(cropped).jpg"
+            },
+            {
+            "nom": "Sean Astin",
+            "lien": "https://fr.wikipedia.org/wiki/Sean_Astin#/media/Fichier:Sean_Astin_at_Rose_City_Comic_Con_02_(cropped).jpg"
+            },
+            {
+            "nom": "Christopher Lee",
+            "lien": "https://fr.wikipedia.org/wiki/Christopher_Lee#/media/Fichier:Christopher_Lee,_Women's_World_Awards_2009_(cropped).jpg"
+            },
+            {
+            "nom": "Orlando Bloom",
+            "lien": "https://fr.wikipedia.org/wiki/Orlando_Bloom#/media/Fichier:Orlando_Bloom_at_the_2024_Toronto_International_Film_Festival_(cropped2).jpg"
+            },
+            {
+            "nom": "John Rhys-Davies",
+            "lien": "https://fr.wikipedia.org/wiki/John_Rhys-Davies#/media/Fichier:John_Rhys-Davies_Photo_Op_GalaxyCon_Richmond_2023.jpg"
+            },
+            {
+            "nom": "Billy Boyd",
+            "lien": "https://fr.wikipedia.org/wiki/Billy_Boyd_(acteur)#/media/Fichier:Billy_Boyd_(14057866305).jpg"
+            },
+            {
+            "nom": "Dominic Monaghan",
+            "lien": "https://fr.wikipedia.org/wiki/Dominic_Monaghan#/media/Fichier:Dominic_Monaghan_2003.jpg"
+            },
+            {
+            "nom": "Andy Serkis",
+            "lien": "https://fr.wikipedia.org/wiki/Andy_Serkis#/media/Fichier:Andy_Serkis_at_MEGACON_Orlando_2025.png"
+            },
+            {
+            "nom": "Bernard Hill",
+            "lien": "https://fr.wikipedia.org/wiki/Bernard_Hill#/media/Fichier:Bernard_Hill_cropped.jpg"
+            },
+            {
+            "nom": "Miranda Otto",
+            "lien": "https://fr.wikipedia.org/wiki/Miranda_Otto#/media/Fichier:Miranda_Otto_by_Gage_Skidmore.jpg"
+            },
+            {
+            "nom": "Brad Dourif",
+            "lien": "https://fr.wikipedia.org/wiki/Brad_Dourif#/media/Fichier:Brad_Dourif_2002.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Arrete-moi si tu peux",
+        "date": 2002,
+        "genre": [
+            "Biopic",
+            "Comédie"
+        ],
+        "acteur": [
+            {
+            "nom": "Leonardo DiCaprio",
+            "lien": "https://fr.wikipedia.org/wiki/Leonardo_DiCaprio#/media/Fichier:LeoPTABFI191125-28_(cropped).jpg"
+            },
+            {
+            "nom": "Tom Hanks",
+            "lien": "https://fr.wikipedia.org/wiki/Tom_Hanks#/media/Fichier:TomHanksPrincEdw031223_(11_of_41)_(cropped).jpg"
+            }
+        ]
+    },
+    {
+        "film": "Le Pianiste",
+        "date": 2002,
+        "genre": [
+            "Biopic",
+            "Historique"
+        ],
+        "acteur": [
+            {
+            "nom": "Adrien Brody",
+            "lien": "https://fr.wikipedia.org/wiki/Adrien_Brody#/media/Fichier:Adrien_Brody_Is_This_Thing_On-90.jpg"
+            },
+            {
+            "nom": "Thomas Kretschmann",
+            "lien": "https://fr.wikipedia.org/wiki/Thomas_Kretschmann#/media/Fichier:Thomas_Kretschmann_(Berlinale_2012).jpg"
+            },
+            {
+            "nom": "Frank Finlay",
+            "lien": "https://fr.wikipedia.org/wiki/Frank_Finlay#/media/Fichier:Chiave3.jpg"
+            },
+            {
+            "nom": "Emilia Fox",
+            "lien": "https://fr.wikipedia.org/wiki/Emilia_Fox#/media/Fichier:Emilia_Fox.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Spider-Man",
+        "date": 2002,
+        "genre": [
+            "Super-héros",
+            "Action"
+        ],
+        "acteur": [
+            {
+            "nom": "Tobey Maguire",
+            "lien": "https://fr.wikipedia.org/wiki/Tobey_Maguire#/media/Fichier:Tobey_Maguire_2014.jpg"
+            },
+            {
+            "nom": "Willem Dafoe",
+            "lien": "https://fr.wikipedia.org/wiki/Willem_Dafoe#/media/Fichier:Willem_Dafoe_at_78th_Locarno_Film_Festival.jpg"
+            },
+            {
+            "nom": "Kirsten Dunst",
+            "lien": "https://fr.wikipedia.org/wiki/Kirsten_Dunst#/media/Fichier:Kirsten_Dunst_(2017_crop).jpg"
+            },
+            {
+            "nom": "James Franco",
+            "lien": "https://fr.wikipedia.org/wiki/James_Franco#/media/Fichier:James_Franco_4,_2013.jpg"
+            },
+            {
+            "nom": "JK Simmons",
+            "lien": "https://fr.wikipedia.org/wiki/J._K._Simmons#/media/Fichier:JK_Simmons_at_the_2024_Toronto_International_Film_Festival_(cropped).jpg"
+            },
+            {
+            "nom": "Cliff Robertson",
+            "lien": "https://fr.wikipedia.org/wiki/Cliff_Robertson#/media/Fichier:Cliffrobertson_(cropped).jpg"
+            }
+        ]
+    },
+    {
+        "film": "La cité de Dieu",
+        "date": 2002,
+        "genre": [
+            "Drame",
+            "Heist"
+        ],
+        "acteur": [
+            {
+            "nom": "Alexandre Raodrigues",
+            "lien": "https://www.imdb.com/fr/name/nm1179105/mediaviewer/rm1156035072/?ref_=nm_ov_ph"
+            },
+            {
+            "nom": "Leandro Firmino",
+            "lien": "https://www.notrecinema.com/images/usercontent/star/leandro-firmino-photo_60704_24667.jpg"
+            },
+            {
+            "nom": "Phellipe Haagensen",
+            "lien": "https://www.imdb.com/fr/title/tt0317248/mediaviewer/rm2701358080/?ref_=tt_ov_i"
+            },
+            {
+            "nom": "Seu Jorge",
+            "lien": "https://fr.wikipedia.org/wiki/Seu_Jorge#/media/Fichier:Seu_Jorge.jpg"
+            },
+            {
+            "nom": "Alice Braga",
+            "lien": "https://fr.wikipedia.org/wiki/Alice_Braga#/media/Fichier:Alice_Braga_at_the_2008_Tribeca_Film_Festival.JPG"
+            }
+        ]
+    },
+    {
+        "film": "Star Wars, épisode II : L'Attaque des Clones",
+        "date": 2002,
+        "genre": [
+            "Science-fiction",
+            "Action"
+        ],
+        "acteur": [
+            {
+            "nom": "Hayden Christensen",
+            "lien": "https://fr.wikipedia.org/wiki/Hayden_Christensen#/media/Fichier:Hayden_Christensen_-_GalaxyCon_Columbus_2024_(A20929).jpg"
+            },
+            {
+            "nom": "Ewan Mcgregor",
+            "lien": "https://fr.wikipedia.org/wiki/Ewan_McGregor#/media/Fichier:Ewan_McGregor_-_Los_Angeles_Comic_Con_2024.jpg"
+            },
+            {
+            "nom": "Natalie Portman",
+            "lien": "https://fr.wikipedia.org/wiki/Natalie_Portman#/media/Fichier:Natalie_Portman-4352_(cropped).jpg"
+            },
+            {
+            "nom": "Christopher Lee",
+            "lien": "https://fr.wikipedia.org/wiki/Christopher_Lee#/media/Fichier:Christopher_Lee,_Women's_World_Awards_2009_(cropped).jpg"
+            },
+            {
+            "nom": "Samuel L. Jackson",
+            "lien": "https://fr.wikipedia.org/wiki/Samuel_L._Jackson#/media/Fichier:SamuelLJackson.jpg"
+            },
+            {
+            "nom": "Temuera Morrison",
+            "lien": "https://fr.wikipedia.org/wiki/Temuera_Morrison#/media/Fichier:Temuera_Morrison_2016.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Harry Potter et la Chambre des Secrets",
+        "date": 2002,
+        "genre": [
+            "Fantasy",
+            "Heroic Fantasy"
+        ],
+        "acteur": [
+            {
+            "nom": "Daniel Radcliffe",
+            "lien": "https://fr.wikipedia.org/wiki/Daniel_Radcliffe#/media/Fichier:DanielRadcliffe.jpg"
+            },
+            {
+            "nom": "Rupert Grint",
+            "lien": "https://fr.wikipedia.org/wiki/Rupert_Grint#/media/Fichier:Rupert_Grint_at_Berlin_Film_Festival_2026,_(P1230719).jpg"
+            },
+            {
+            "nom": "Emma Watson",
+            "lien": "https://fr.wikipedia.org/wiki/Emma_Watson#/media/Fichier:Emma_Watson_in_September_2025_in_an_interview_for_Jay_Shetty_Podcast_(Youtube_channel).jpg"
+            },
+            {
+            "nom": "Richard Harris",
+            "lien": "https://fr.wikipedia.org/wiki/Richard_Harris_(acteur)#/media/Fichier:Richard_Harris_1985.jpg"
+            },
+            {
+            "nom": "Tom Felton",
+            "lien": "https://fr.wikipedia.org/wiki/Tom_Felton#/media/Fichier:Tom_Felton_at_the_2025_Toronto_International_Film_Festival_(cropped).jpg"
+            },
+            {
+            "nom": "Maggie Smith",
+            "lien": "https://fr.wikipedia.org/wiki/Maggie_Smith#/media/Fichier:Maggie_Smith_-_Vintage_(trim).jpg"
+            },
+            {
+            "nom": "Robbie Coltrane",
+            "lien": "https://fr.wikipedia.org/wiki/Robbie_Coltrane#/media/Fichier:Robbiecoltranecrop.jpg"
+            },
+            {
+            "nom": "Alan Rickman",
+            "lien": "https://fr.wikipedia.org/wiki/Alan_Rickman#/media/Fichier:Alan_Rickman_after_Seminar_(3).jpg"
+            },
+            {
+            "nom": "Kenneth Branagh",
+            "lien": "https://fr.wikipedia.org/wiki/Kenneth_Branagh#/media/Fichier:Kenneth_Branagh_at_diff_2015.jpg"
+            },
+            {
+            "nom": "Jason Isaacs",
+            "lien": "https://fr.wikipedia.org/wiki/Jason_Isaacs#/media/Fichier:Jason_Isaacs-45_(cropped).jpg"
+            },
+            {
+            "nom": "Christian Coulson",
+            "lien": "https://www.notrecinema.com/images/usercontent/star/christian-coulson-photo_125109_35472.jpg"
+            },
+            {
+            "nom": "Shirley Henderson",
+            "lien": "https://fr.wikipedia.org/wiki/Shirley_Henderson#/media/Fichier:Shirley_Henderson_2.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Minority Report",
+        "date": 2002,
+        "genre": [
+            "Science-fiction",
+            "Néo-noir",
+            "Polar",
+            "Thriller"
+        ],
+        "acteur": [
+            {
+            "nom": "Tom Cruise",
+            "lien": "https://fr.wikipedia.org/wiki/Tom_Cruise#/media/Fichier:CROP_Tom_Cruise_during_the_2025_Cannes_Film_Festival_03.png"
+            },
+            {
+            "nom": "Colin Farrell",
+            "lien": "https://fr.wikipedia.org/wiki/Colin_Farrell#/media/Fichier:2025_Colin_Farrell_-_2_(cropped).jpg"
+            },
+            {
+            "nom": "Samantha Morton",
+            "lien": "https://en.wikipedia.org/wiki/Samantha_Morton#/media/File:Samantha_Morton_Edinburgh_International_Film_Festival.png"
+            },
+            {
+            "nom": "Max Von Sydow",
+            "lien": "https://fr.wikipedia.org/wiki/Max_von_Sydow#/media/Fichier:Max_von_Sydow_Cannes_2016.jpg"
+            },
+            {
+            "nom": "Lois Smith",
+            "lien": "https://fr.wikipedia.org/wiki/Lois_Smith#/media/Fichier:Lois_Smith_at_the_2017_International_Film_Festival_Rotterdam.jpg"
+            }
+        ]
+    },
+    {
+        "film": "La Mémoire dans la Peau",
+        "date": 2002,
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "acteur": [
+            {
+            "nom": "Matt Damon",
+            "lien": "https://fr.wikipedia.org/wiki/Matt_Damon#/media/Fichier:Matt_Damon_at_Berlinale_2024_Ausschnitt.jpg"
+            },
+            {
+            "nom": "Franka Potente",
+            "lien": "https://fr.wikipedia.org/wiki/Franka_Potente#/media/Fichier:MJK_335110_Franka_Potente_(NRW-Empfang,_Berlinale_2019).jpg"
+            },
+            {
+            "nom": "Chris Cooper",
+            "lien": "https://fr.wikipedia.org/wiki/Chris_Cooper#/media/Fichier:Chris_Cooper_TIFF_2013.jpg"
+            },
+            {
+            "nom": "Brian Cox",
+            "lien": "https://fr.wikipedia.org/wiki/Brian_Cox_(acteur)#/media/Fichier:BrianCox-byPhilipRomano.jpg"
+            },
+            {
+            "nom": "Clive Owen",
+            "lien": "https://fr.wikipedia.org/wiki/Clive_Owen#/media/Fichier:Clive_Owen_-_Berlin_Berlinale_66.jpg"
+            }
+        ]
+    },
+    {
+        "film": "28 Jours plus tard",
+        "date": 2002,
+        "genre": [
+            "Horreur",
+            "Post-apocalyptique"
+        ],
+        "acteur": [
+            {
+            "nom": "Cillian Murphy",
+            "lien": "https://fr.wikipedia.org/wiki/Cillian_Murphy#/media/Fichier:CillianMurphy-TIFF2025-01-Cropped_(cropped).png"
+            },
+            {
+            "nom": "Naomie Harris",
+            "lien": "https://fr.wikipedia.org/wiki/Naomie_Harris#/media/Fichier:Naomie_Harris_2014.jpg"
+            },
+            {
+            "nom": "Brendan Gleeson",
+            "lien": "https://fr.wikipedia.org/wiki/Brendan_Gleeson#/media/Fichier:BansheesBFI131022_(19_of_22)_(52448312588)_(cropped).jpg"
+            },
+            {
+            "nom": "Megan Burns",
+            "lien": "https://28dayslater.fandom.com/wiki/Megan_Burns?file=Megan_Burns_as_Betty_Curse-01.jpg"
+            },
+            {
+            "nom": "Christopher Eccleston",
+            "lien": "https://fr.wikipedia.org/wiki/Christopher_Eccleston#/media/Fichier:Christopher_Eccleston_Thor_2_cropped.png"
+            }
+        ]
+    },
+    {
+        "film": "Le Seigneur des Anneaux, Le retour du Roi",
+        "date": 2003,
+        "genre": [
+            "Heroic Fantasy",
+            "Aventure",
+            "Dark fantasy"
+        ],
+        "acteur": [
+            {
+            "nom": "Elijah Wood",
+            "lien": "https://fr.wikipedia.org/wiki/Elijah_Wood#/media/Fichier:Elijah_Wood_at_the_2025_Sundance_Film_Festival.jpg"
+            },
+            {
+            "nom": "Ian McKellen",
+            "lien": "https://fr.wikipedia.org/wiki/Ian_McKellen#/media/Fichier:SDCC13_-_Ian_McKellen.jpg"
+            },
+            {
+            "nom": "Viggo Mortensen",
+            "lien": "https://fr.wikipedia.org/wiki/Viggo_Mortensen#/media/Fichier:Viggo_Mortensen,_director_y_actor,_en_AWFF_2024_(cropped).jpg"
+            },
+            {
+            "nom": "Sean Astin",
+            "lien": "https://fr.wikipedia.org/wiki/Sean_Astin#/media/Fichier:Sean_Astin_at_Rose_City_Comic_Con_02_(cropped).jpg"
+            },
+            {
+            "nom": "Orlando Bloom",
+            "lien": "https://fr.wikipedia.org/wiki/Orlando_Bloom#/media/Fichier:Orlando_Bloom_at_the_2024_Toronto_International_Film_Festival_(cropped2).jpg"
+            },
+            {
+            "nom": "John Rhys-Davies",
+            "lien": "https://fr.wikipedia.org/wiki/John_Rhys-Davies#/media/Fichier:John_Rhys-Davies_Photo_Op_GalaxyCon_Richmond_2023.jpg"
+            },
+            {
+            "nom": "Billy Boyd",
+            "lien": "https://fr.wikipedia.org/wiki/Billy_Boyd_(acteur)#/media/Fichier:Billy_Boyd_(14057866305).jpg"
+            },
+            {
+            "nom": "Dominic Monaghan",
+            "lien": "https://fr.wikipedia.org/wiki/Dominic_Monaghan#/media/Fichier:Dominic_Monaghan_2003.jpg"
+            },
+            {
+            "nom": "Andy Serkis",
+            "lien": "https://fr.wikipedia.org/wiki/Andy_Serkis#/media/Fichier:Andy_Serkis_at_MEGACON_Orlando_2025.png"
+            },
+            {
+            "nom": "Bernard Hill",
+            "lien": "https://fr.wikipedia.org/wiki/Bernard_Hill#/media/Fichier:Bernard_Hill_cropped.jpg"
+            },
+            {
+            "nom": "Miranda Otto",
+            "lien": "https://fr.wikipedia.org/wiki/Miranda_Otto#/media/Fichier:Miranda_Otto_by_Gage_Skidmore.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Pirates des Caraïbes: La Malédiction du Black Pearl",
+        "date": 2003,
+        "genre": [
+            "Aventure",
+            "Fantastique"
+        ],
+        "acteur": [
+            {
+            "nom": "Johnny Depp",
+            "lien": "https://fr.wikipedia.org/wiki/Johnny_Depp#/media/Fichier:Johnny_Depp_2020.jpg"
+            },
+            {
+            "nom": "Geoffrey Rush",
+            "lien": "https://fr.wikipedia.org/wiki/Geoffrey_Rush#/media/Fichier:Gala_de_%C3%AEnchidere_TIFF.22_2023_(52983461438)~2.jpg"
+            },
+            {
+            "nom": "Orlando Bloom",
+            "lien": "https://fr.wikipedia.org/wiki/Orlando_Bloom#/media/Fichier:Orlando_Bloom_at_the_2024_Toronto_International_Film_Festival_(cropped2).jpg"
+            },
+            {
+            "nom": "Keira Knightley",
+            "lien": "https://fr.wikipedia.org/wiki/Keira_Knightley#/media/Fichier:KeraK_(ropped).jpg"
+            },
+            {
+            "nom": "Jack Davenport",
+            "lien": "https://fr.wikipedia.org/wiki/Jack_Davenport#/media/Fichier:Jack_Davenport_in_White_Famous_S01_E03.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Kill Bill Volume 1",
+        "date": 2003,
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "acteur": [
+            {
+            "nom": "Uma Thurman",
+            "lien": "https://fr.wikipedia.org/wiki/Uma_Thurman#/media/Fichier:UmaThurman-byPhilipRomano.jpg"
+            },
+            {
+            "nom": "Lucy Liu",
+            "lien": "https://fr.wikipedia.org/wiki/Lucy_Liu#/media/Fichier:Lucy_Liu_Rosemead-13_(cropped).jpg"
+            },
+            {
+            "nom": "Vivica A. Fox",
+            "lien": "https://fr.wikipedia.org/wiki/Vivica_A._Fox#/media/Fichier:Vivica_A._Fox_(33845756800)_(cropped).jpg"
+            },
+            {
+            "nom": "Sonny Chiba",
+            "lien": "https://fr.wikipedia.org/wiki/Sonny_Chiba#/media/Fichier:Chiba-Shinichi-1.jpg"
+            },
+            {
+            "nom": "Chiaki Kuriyama",
+            "lien": "https://fr.wikipedia.org/wiki/Chiaki_Kuriyama#/media/Fichier:26th_Tokyo_International_Film_Festival_Kuriyama_Chiaki.jpg"
+            },
+            {
+            "nom": "David Carradine",
+            "lien": "https://fr.wikipedia.org/wiki/David_Carradine#/media/Fichier:Carradine.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Old Boy",
+        "date": 2003,
+        "genre": [
+            "Thriller",
+            "Néo-noir",
+            "Action"
+        ],
+        "acteur": [
+            {
+            "nom": "Choi Min-sik",
+            "lien": "https://fr.wikipedia.org/wiki/Choi_Min-sik#/media/Fichier:Choi_Min-sik_at_New_York_Asian_Film_Festival_-_6-30-12_-_27.jpg"
+            },
+            {
+            "nom": "Yoo Ji-Tae",
+            "lien": "https://fr.wikipedia.org/wiki/Yu_Ji-tae#/media/Fichier:190502_%EC%9C%A0%EC%A7%80%ED%83%9C.jpg"
+            },
+            {
+            "nom": "Kang Hye-Jeong",
+            "lien": "https://fr.wikipedia.org/wiki/Kang_Hye-jeong#/media/Fichier:Kang_Hye-jung_from_acrofan.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Matrix Reloaded",
+        "date": 2003,
+        "genre": [
+            "Science-fiction",
+            "Action"
+        ],
+        "acteur": [
+            {
+            "nom": "Keanu Reeves",
+            "lien": "https://fr.wikipedia.org/wiki/Keanu_Reeves#/media/Fichier:Keanu_Reeves_at_TIFF_2025_02_(Cropped).jpg"
+            },
+            {
+            "nom": "Carrie-Anne Moss",
+            "lien": "https://fr.wikipedia.org/wiki/Carrie-Anne_Moss#/media/Fichier:Carrie-Anne_Moss_May_2016.jpg"
+            },
+            {
+            "nom": "Laurence Fishburne",
+            "lien": "https://fr.wikipedia.org/wiki/Laurence_Fishburne#/media/Fichier:National_Memorial_Day_Concert_2017_(34117818524)_(cropped).jpg"
+            },
+             {
+            "nom": "Hugo Weaving",
+            "lien": "https://fr.wikipedia.org/wiki/Hugo_Weaving#/media/Fichier:Hugo_Weaving.jpg"
+            },
+            {
+            "nom": "Lambert Wilson",
+            "lien": "https://fr.wikipedia.org/wiki/Lambert_Wilson#/media/Fichier:Lambert_Wilson_Cannes_2017.jpg"
+            },
+            {
+            "nom": "Monica Bellucci",
+            "lien": "https://fr.wikipedia.org/wiki/Monica_Bellucci#/media/Fichier:Monica_Bellucci-63654.jpg"
+            },
+            {
+            "nom": "Helmut Bakaitis",
+            "lien": "https://matrix.fandom.com/wiki/Helmut_Bakaitis?file=Helmut_Bakaitis.jpg"
+            }
+        ]
+    },
+    {
+        "film": "X-Men 2",
+        "date": 2003,
+        "genre": [
+            "Science-fiction",
+            "Action",
+            "Super-héros"
+        ],
+        "acteur": [
+            {
+            "nom": "Hugh Jackman",
+            "lien": "https://fr.wikipedia.org/wiki/Hugh_Jackman#/media/Fichier:Hugh_Jackman_Is_This_Thing_On-68_(cropped).jpg"
+            },
+            {
+            "nom": "Patrick Stewart",
+            "lien": "https://fr.wikipedia.org/wiki/Patrick_Stewart#/media/Fichier:PatrickStew211023_(3_of_23)_(53275039331)_(cropped).jpg"
+            },
+            {
+            "nom": "Ian McKellen",
+            "lien": "https://fr.wikipedia.org/wiki/Ian_McKellen#/media/Fichier:SDCC13_-_Ian_McKellen.jpg"
+            },
+            {
+            "nom": "Brian Cox",
+            "lien": "https://fr.wikipedia.org/wiki/Brian_Cox_(acteur)#/media/Fichier:BrianCox-byPhilipRomano.jpg"
+            },
+            {
+            "nom": "Alan Cumming",
+            "lien": "https://fr.wikipedia.org/wiki/Alan_Cumming#/media/Fichier:FM_and_Alan_Cumming_in_NY-4_(cropped).jpg"
+            },
+            {
+            "nom": "Anna Paquin",
+            "lien": "https://fr.wikipedia.org/wiki/Anna_Paquin#/media/Fichier:AnnaPaquinToronto2018.jpg"
+            },
+            {
+            "nom": "Famke Janssen",
+            "lien": "https://fr.wikipedia.org/wiki/Famke_Janssen#/media/Fichier:Famke_Janssen_by_Gage_Skidmore_2.jpg"
+            },
+            {
+            "nom": "Halle Berry",
+            "lien": "https://fr.wikipedia.org/wiki/Halle_Berry#/media/Fichier:Halle_Berry-0356_(cropped).jpg"
+            },
+            {
+            "nom": "James Marsden",
+            "lien": "https://fr.wikipedia.org/wiki/James_Marsden#/media/Fichier:James_Marsden_by_Gage_Skidmore.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Love Actually",
+        "date": 2003,
+        "genre": [
+            "Comédie",
+            "Romance"
+        ],
+        "acteur": [
+            {
+            "nom": "Hugh Grant",
+            "lien": "https://fr.wikipedia.org/wiki/Hugh_Grant#/media/Fichier:Hugh_grant_losing_at_the_golden_globes.jpg"
+            },
+            {
+            "nom": "Emma Thompson",
+            "lien": "https://fr.wikipedia.org/wiki/Emma_Thompson#/media/Fichier:Emma_Thompson_at_the_2025_Locarno_Film_Festival_04.jpg"
+            },
+            {
+            "nom": "Colin Firth",
+            "lien": "https://fr.wikipedia.org/wiki/Colin_Firth#/media/Fichier:Colin_Firth_by_Gage_Skidmore_2.jpg"
+            },
+            {
+            "nom": "Keira Knightley",
+            "lien": "https://fr.wikipedia.org/wiki/Keira_Knightley#/media/Fichier:KeraK_(ropped).jpg"
+            },
+            {
+            "nom": "Bill Nighy",
+            "lien": "https://fr.wikipedia.org/wiki/Bill_Nighy#/media/Fichier:Premios_Goya_2018_-_Bill_Nighy_02.jpg"
+            },
+            {
+            "nom": "Liam Neeson",
+            "lien": "https://fr.wikipedia.org/wiki/Liam_Neeson#/media/Fichier:Liam_Neeson_Deauville_2012.jpg"
+            },
+            {
+            "nom": "Andrew Lincoln",
+            "lien": "https://fr.wikipedia.org/wiki/Andrew_Lincoln#/media/Fichier:Andrew_Lincoln_(42749683025)_(cropped).jpg"
+            }
+        ]
+    },
+    {
+        "film": "Matrix Revolution",
+        "date": 2003,
+        "genre": [
+            "Science-fiction",
+            "Post-apocalyptique"
+        ],
+        "acteur": [
+            {
+            "nom": "Keanu Reeves",
+            "lien": "https://fr.wikipedia.org/wiki/Keanu_Reeves#/media/Fichier:Keanu_Reeves_at_TIFF_2025_02_(Cropped).jpg"
+            },
+            {
+            "nom": "Hugo Weaving",
+            "lien": "https://fr.wikipedia.org/wiki/Hugo_Weaving#/media/Fichier:Hugo_Weaving.jpg"
+            },
+            {
+            "nom": "Carrie-Anne Moss",
+            "lien": "https://fr.wikipedia.org/wiki/Carrie-Anne_Moss#/media/Fichier:Carrie-Anne_Moss_May_2016.jpg"
+            },
+            {
+            "nom": "Jada Pinkett Smith",
+            "lien": "https://fr.wikipedia.org/wiki/Jada_Pinkett_Smith#/media/Fichier:Jada_Pinkett_Smith_at_NY_PaleyFest_2014_for_Gotham.jpg"
+            },
+            {
+            "nom": "Mary Alice",
+            "lien": "https://fr.wikipedia.org/wiki/Mary_Alice#/media/Fichier:MaryAlice.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Lost in Translation",
+        "date": 2003,
+        "genre": [
+            "Comédie",
+            "Romance"
+        ],
+        "acteur": [
+            {
+            "nom": "Bill Murray",
+            "lien": "https://fr.wikipedia.org/wiki/Bill_Murray#/media/Fichier:Bill_Murray_at_the_2025_Sundance_Film_Festival_2_(cropped).jpg"
+            },
+            {
+            "nom": "Scarlett Johansson",
+            "lien": "https://fr.wikipedia.org/wiki/Scarlett_Johansson#/media/Fichier:Scarlett_Johansson_293_(cropped2).jpg"
+            },
+            {
+            "nom": "Giovanni Ribisi",
+            "lien": "https://fr.wikipedia.org/wiki/Giovanni_Ribisi#/media/Fichier:GiovanniRibisiDec09.jpg"
+            },
+            {
+            "nom": "Anna Faris",
+            "lien": "https://fr.wikipedia.org/wiki/Anna_Faris#/media/Fichier:Great_Wolf_Lodge_Maryland_Grand_Opening_(53011662158)~2.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Mystic River",
+        "date": 2003,
+        "genre": [
+            "Néo-noir",
+            "Thriller",
+            "Psychologique"
+        ],
+        "acteur": [
+            {
+            "nom": "Sean Penn",
+            "lien": "https://fr.wikipedia.org/wiki/Sean_Penn#/media/Fichier:Superpower_(2023)-60535.jpg"
+            },
+            {
+            "nom": "Tim Robbins",
+            "lien": "https://fr.wikipedia.org/wiki/Tim_Robbins#/media/Fichier:Tim_Robbins_(8235175646).jpg"
+            },
+            {
+            "nom": "Kevin Bacon",
+            "lien": "https://fr.wikipedia.org/wiki/Kevin_Bacon#/media/Fichier:Kevin_Bacon_The_Best_You_Can-55_(cropped).jpg"
+            },
+            {
+            "nom": "Marcia Gay Harden",
+            "lien": "https://fr.wikipedia.org/wiki/Marcia_Gay_Harden#/media/Fichier:Marcia_Gay_Harden_2013_(cropped).jpg"
+            },
+            {
+            "nom": "Laura Linney",
+            "lien": "https://fr.wikipedia.org/wiki/Laura_Linney#/media/Fichier:Laura_Linney_2016_(cropped).jpg"
+            }
+        ]
+    },
+    {
+        "film": "Eternal Sunshine of the Spotless Mind",
+        "date": 2004,
+        "genre": [
+            "Romance",
+            "Science-fiction",
+            "Thriller"
+        ],
+        "acteur": [
+            {
+            "nom": "Jim Carrey",
+            "lien": "https://fr.wikipedia.org/wiki/Jim_Carrey#/media/Fichier:Jim_Carrey_2020_cropped.jpg"
+            },
+            {
+            "nom": "Kate Winslet",
+            "lien": "https://fr.wikipedia.org/wiki/Kate_Winslet#/media/Fichier:KateWinslet_(cropped).jpg"
+            },
+            {
+            "nom": "Kirsten Dunst",
+            "lien": "https://fr.wikipedia.org/wiki/Kirsten_Dunst#/media/Fichier:Kirsten_Dunst_(2017_crop).jpg"
+            },
+            {
+            "nom":"Mark Ruffalo",
+            "lien":"https://fr.wikipedia.org/wiki/Mark_Ruffalo#/media/Fichier:Mark_Ruffalo_in_2017_by_Gage_Skidmore.jpg"
+            },
+            {
+            "nom":"Elijah Wood",
+            "lien":"https://fr.wikipedia.org/wiki/Elijah_Wood#/media/Fichier:Elijah_Wood_at_the_2025_Sundance_Film_Festival.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Kill Bill Volume 2",
+        "date": 2004,
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "acteur": [
+            {
+            "nom": "Uma Thurman",
+            "lien": "https://fr.wikipedia.org/wiki/Uma_Thurman#/media/Fichier:UmaThurman-byPhilipRomano.jpg"
+            },
+            {
+            "nom": "David Carradine",
+            "lien": "https://fr.wikipedia.org/wiki/David_Carradine#/media/Fichier:Carradine.jpg"
+            },
+            {
+            "nom": "Michael Madsen",
+            "lien": "https://fr.wikipedia.org/wiki/Michael_Madsen#/media/Fichier:Michael_Madsen_by_Gage_Skidmore.jpg"
+            },
+            {
+            "nom": "Daryl Hannah",
+            "lien": "https://fr.wikipedia.org/wiki/Daryl_Hannah#/media/Fichier:Daryl_Hannah_2013.jpg"
+            },
+            {
+            "nom": "Gordon Liu",
+            "lien": "https://fr.wikipedia.org/wiki/Gordon_Liu#/media/Fichier:Defaut.svg"
+            }
+        ]
+    },
+    {
+        "film": "Spider-Man 2",
+        "date": 2004,
+        "genre": [
+            "Action",
+            "Super-héros"
+        ],
+        "acteur": [
+            {
+            "nom": "Tobey Maguire",
+            "lien": "https://fr.wikipedia.org/wiki/Tobey_Maguire#/media/Fichier:Tobey_Maguire_2014.jpg"
+            },
+            {
+            "nom": "Alfred Molina",
+            "lien": "https://fr.wikipedia.org/wiki/Alfred_Molina#/media/Fichier:AlfredMolinaByJustinHoch2009.jpg"
+            },
+            {
+            "nom": "Kirsten Dunst",
+            "lien": "https://fr.wikipedia.org/wiki/Kirsten_Dunst#/media/Fichier:Kirsten_Dunst_(2017_crop).jpg"
+            },
+            {
+            "nom": "James Franco",
+            "lien": "https://fr.wikipedia.org/wiki/James_Franco#/media/Fichier:James_Franco_4,_2013.jpg"
+            },
+            {
+            "nom": "JK Simmons",
+            "lien": "https://fr.wikipedia.org/wiki/J._K._Simmons#/media/Fichier:JK_Simmons_at_the_2024_Toronto_International_Film_Festival_(cropped).jpg"
+            }
+        ]
+    },
+    {
+        "film": "Million Dollar Baby",
+        "date": 2004,
+        "genre": [
+            "Drame",
+            "Sport"
+        ],
+        "acteur": [
+            {
+            "nom": "Hilary Swank",
+            "lien": "https://fr.wikipedia.org/wiki/Hilary_Swank#/media/Fichier:Hilary_Swank_at_28th_Tokyo_International_Film_Festival.jpg"
+            },
+            {
+            "nom": "Clint Eastwood",
+            "lien": "https://fr.wikipedia.org/wiki/Clint_Eastwood#/media/Fichier:Clint_Eastwood_visits_MCB_Camp_Pendleton_(1)_(cropped).jpg"
+            },
+            {
+            "nom": "Morgan Freeman",
+            "lien": "https://fr.wikipedia.org/wiki/Morgan_Freeman#/media/Fichier:Morgan_Freeman_Deauville_2018.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Harry Potter et le Prisonner d'Azkaban",
+        "date": 2004,
+        "genre": [
+            "Fantastique",
+            "Dark fantasy"
+        ],
+        "acteur": [
+            {
+            "nom": "Daniel Radcliffe",
+            "lien": "https://fr.wikipedia.org/wiki/Daniel_Radcliffe#/media/Fichier:DanielRadcliffe.jpg"
+            },
+            {
+            "nom": "Emma Watson",
+            "lien": "https://fr.wikipedia.org/wiki/Emma_Watson#/media/Fichier:Emma_Watson_in_September_2025_in_an_interview_for_Jay_Shetty_Podcast_(Youtube_channel).jpg"
+            },
+            {
+            "nom": "Rupert Grint",
+            "lien": "https://fr.wikipedia.org/wiki/Rupert_Grint#/media/Fichier:Rupert_Grint_at_Berlin_Film_Festival_2026,_(P1230719).jpg"
+            },
+            {
+            "nom": "Tom Felton",
+            "lien": "https://fr.wikipedia.org/wiki/Tom_Felton#/media/Fichier:Tom_Felton_at_the_2025_Toronto_International_Film_Festival_(cropped).jpg"
+            },
+            {
+            "nom": "Maggie Smith",
+            "lien": "https://fr.wikipedia.org/wiki/Maggie_Smith#/media/Fichier:Maggie_Smith_-_Vintage_(trim).jpg"
+            },
+            {
+            "nom": "Robbie Coltrane",
+            "lien": "https://fr.wikipedia.org/wiki/Robbie_Coltrane#/media/Fichier:Robbiecoltranecrop.jpg"
+            },
+            {
+            "nom": "Alan Rickman",
+            "lien": "https://fr.wikipedia.org/wiki/Alan_Rickman#/media/Fichier:Alan_Rickman_after_Seminar_(3).jpg"
+            },
+            {
+            "nom": "Gary Oldman",
+            "lien": "https://fr.wikipedia.org/wiki/Gary_Oldman#/media/Fichier:Gary_Oldman_Cannes_2018.jpg"
+            },
+            {
+            "nom": "David Thewlis",
+            "lien": "https://fr.wikipedia.org/wiki/David_Thewlis#/media/Fichier:David_Thewlis_at_Avatar_fire_and_ash_premiere_London_2025.jpg"
+            },
+            {
+            "nom": "Timothy Spall",
+            "lien": "https://fr.wikipedia.org/wiki/Timothy_Spall#/media/Fichier:Timothy_Spall_World_Premiere_The_Party_Berlinale_2017_02.jpg"
+            },
+            {
+            "nom": "Michael Gambon",
+            "lien": "https://fr.wikipedia.org/wiki/Michael_Gambon#/media/Fichier:Michael_Gambon_cropped.jpg"
+            }
+        ]
+    },
+    {
+        "film": "N'oublie Jamais",
+        "date": 2004,
+        "genre": [
+            "Drame",
+            "Romance"
+        ],
+        "acteur": [
+            {
+            "nom": "Ryan Gosling",
+            "lien": "https://fr.wikipedia.org/wiki/Ryan_Gosling#/media/Fichier:Ryan_Gosling_-_2023_(53389514500)_(cropped).jpg"
+            },
+            {
+            "nom": "Rachel McAdams",
+            "lien": "https://fr.wikipedia.org/wiki/Rachel_McAdams#/media/Fichier:Rachel_McAdams_-_Walk_of_Fame.jpg"
+            },
+            {
+            "nom": "James Garner",
+            "lien": "https://fr.wikipedia.org/wiki/James_Garner#/media/Fichier:James_Garner_Maverick.jpg"
+            },
+            {
+            "nom": "Gena Rowlands",
+            "lien": "https://fr.wikipedia.org/wiki/Gena_Rowlands#/media/Fichier:Gena_Rowlands_1968.jpg"
+            },
+            {
+            "nom": "James Marsden",
+            "lien": "https://fr.wikipedia.org/wiki/James_Marsden#/media/Fichier:James_Marsden_by_Gage_Skidmore.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Shaun of the Dead",
+        "date": 2004,
+        "genre": [
+            "Comédie",
+            "Horreur"
+        ],
+        "acteur": [
+            {
+            "nom": "Simon Pegg",
+            "lien": "https://fr.wikipedia.org/wiki/Simon_Pegg#/media/Fichier:Simon_Pegg_by_Gage_Skidmore_3.jpg"
+            },
+            {
+            "nom": "Nick Frost",
+            "lien": "https://fr.wikipedia.org/wiki/Nick_Frost#/media/Fichier:Nick_Frost_by_Gage_Skidmore_3.jpg"
+            },
+            {
+            "nom": "Kate Ashfield",
+            "lien": "https://baict.fandom.com/wiki/Liz?file=Liz.png"
+            },
+            {
+            "nom": "Bill Nighy",
+            "lien": "https://fr.wikipedia.org/wiki/Bill_Nighy#/media/Fichier:Premios_Goya_2018_-_Bill_Nighy_02.jpg"
+            }
+        ]
+    },
+    {
+        "film": "I, Robot",
+        "date": 2004,
+        "genre": [
+            "Science-fiction",
+            "Action"
+        ],
+        "acteur": [
+            {
+            "nom": "Will Smith",
+            "lien": "https://fr.wikipedia.org/wiki/Will_Smith#/media/Fichier:TechCrunch_Disrupt_2019_(48834434641)_(cropped).jpg"
+            },
+            {
+            "nom": "Alan Tudyk",
+            "lien": "https://fr.wikipedia.org/wiki/Alan_Tudyk#/media/Fichier:AlanTudyk-byPhilipRomano.jpg"
+            },
+            {
+            "nom": "Bridget Moynahan",
+            "lien": "https://fr.wikipedia.org/wiki/Bridget_Moynahan#/media/Fichier:Bridget_Moynahan_2023.jpg"
+            },
+            {
+            "nom": "Bruce Greenwood",
+            "lien": "https://fr.wikipedia.org/wiki/Bruce_Greenwood#/media/Fichier:Bruce_Greenwood_(29223732930)_cropped.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Troie",
+        "date": 2004,
+        "genre": [
+            "Péplum",
+            "Historique"
+        ],
+        "acteur": [
+            {
+            "nom": "Brad Pitt",
+            "lien": "https://fr.wikipedia.org/wiki/Brad_Pitt#/media/Fichier:Brad_Pitt-69858.jpg"
+            },
+            {
+            "nom": "Eric Bana",
+            "lien": "https://fr.wikipedia.org/wiki/Eric_Bana#/media/Fichier:Eric_Bana_2014_WonderCon_(cropped).jpg"
+            },
+            {
+            "nom": "Orlando Bloom",
+            "lien": "https://fr.wikipedia.org/wiki/Orlando_Bloom#/media/Fichier:Orlando_Bloom_at_the_2024_Toronto_International_Film_Festival_(cropped2).jpg"
+            },
+            {
+            "nom": "Diane Kruger",
+            "lien": "https://fr.wikipedia.org/wiki/Diane_Kruger#/media/Fichier:MKr378435_Diane_Kruger_(Amrum,_Cannes_2025).jpg"
+            },
+            {
+            "nom": "Sean Bean",
+            "lien": "https://fr.wikipedia.org/wiki/Sean_Bean#/media/Fichier:Sean_Bean_Anemone-25_(cropped).jpg"
+            },
+            {
+            "nom": "Peter O'toole",
+            "lien": "https://fr.wikipedia.org/wiki/Peter_O%27Toole#/media/Fichier:Peter_O'Toole_-_1968.jpg"
+            }
+        ]
+    },
+    {
+        "film": "L'effet Papillon",
+        "date": 2004,
+        "genre": [
+            "Thriller",
+            "Fantastique",
+            "Drame",
+            "Psychologique"
+        ],
+        "acteur": [
+            {
+            "nom": "Ashton Kutcher",
+            "lien": "https://fr.wikipedia.org/wiki/Ashton_Kutcher#/media/Fichier:Ashton_Kutcher_-_2023_-_P060603-652701_(cropped).jpg"
+            },
+            {
+            "nom": "Amy Smart",
+            "lien": "https://fr.wikipedia.org/wiki/Amy_Smart#/media/Fichier:Amy_Smart.jpg"
+            },
+            {
+            "nom": "Elden Henson",
+            "lien": "https://fr.wikipedia.org/wiki/Elden_Henson#/media/Fichier:Elden_Henson_by_Gage_Skidmore.jpg"
+            },
+            {
+            "nom": "Melora Walters",
+            "lien": "https://www.rottentomatoes.com/celebrity/melora_walters/pictures"
+            }
+        ]
+    },
+    {
+        "film": "Batman begins",
+        "date": 2005,
+        "genre": [
+            "Thriller",
+            "Néo-noir"
+        ],
+        "acteur": [
+            {
+            "nom": "Christian Bale",
+            "lien": "https://fr.wikipedia.org/wiki/Christian_Bale#/media/Fichier:Christian_Bale-7837.jpg"
+            },
+            {
+            "nom": "Michael Caine",
+            "lien": "https://fr.wikipedia.org/wiki/Michael_Caine#/media/Fichier:Sir_Michael_Caine,_28th_EFA_Awards_2015,_Berlin_(cropped).jpg"
+            },
+            {
+            "nom": "Gary Oldman",
+            "lien": "https://fr.wikipedia.org/wiki/Gary_Oldman#/media/Fichier:Gary_Oldman_Cannes_2018.jpg"
+            },
+            {
+            "nom": "Cillian Murphy",
+            "lien": "https://fr.wikipedia.org/wiki/Cillian_Murphy#/media/Fichier:CillianMurphy-TIFF2025-01-Cropped_(cropped).png"
+            },
+            {
+            "nom": "Morgan Freeman",
+            "lien": "https://fr.wikipedia.org/wiki/Morgan_Freeman#/media/Fichier:Morgan_Freeman_Deauville_2018.jpg"
+            }
+        ]
+    },
+    {
+        "film": "V pour Vendetta",
+        "date": 2005,
+        "genre": [
+            "Thriller",
+            "Action",
+            "Drame"
+        ],
+        "acteur": [
+            {
+            "nom": "Hugo Weaving",
+            "lien": "https://fr.wikipedia.org/wiki/Hugo_Weaving#/media/Fichier:Hugo_Weaving.jpg"
+            },
+            {
+            "nom": "Natalie Portman",
+            "lien": "https://fr.wikipedia.org/wiki/Natalie_Portman#/media/Fichier:Natalie_Portman-4352_(cropped).jpg"
+            },
+            {
+            "nom": "Stephen Rea",
+            "lien": "https://fr.wikipedia.org/wiki/Stephen_Rea#/media/Fichier:Stephen_Rea_EIBF_2025_02.jpg"
+            },
+            {
+            "nom": "John Hurt",
+            "lien": "https://fr.wikipedia.org/wiki/John_Hurt#/media/Fichier:John_Hurt_at_the_2009_Tribeca_Film_Festival.jpg"
+            },
+            {
+            "nom": "Stephen Fry",
+            "lien": "https://fr.wikipedia.org/wiki/Stephen_Fry#/media/Fichier:Stephen_Fry_at_Berlinale_2024_Ausschnitt.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Star Wars, épisode III : La Revanche des Sith",
+        "date": 2005,
+        "genre": [
+            "Science-fiction",
+            "Action",
+            "Drame"
+        ],
+        "acteur": [
+            {
+                "nom": "Hayden Christensen",
+                "lien": "https://fr.wikipedia.org/wiki/Hayden_Christensen#/media/Fichier:Hayden_Christensen_-_GalaxyCon_Columbus_2024_(A20929).jpg"
+            },
+            {
+                "nom": "Ewan Mcgregor",
+                "lien": "https://fr.wikipedia.org/wiki/Ewan_McGregor#/media/Fichier:Ewan_McGregor_-_Los_Angeles_Comic_Con_2024.jpg"
+            },
+            {
+                "nom": "Ian McDiarmid",
+                "lien": "https://fr.wikipedia.org/wiki/Ian_McDiarmid#/media/Fichier:Ian_McDiarmid_(53604450304).jpg"
+            },
+            {
+                "nom": "Natalie Portman",
+                "lien": "https://fr.wikipedia.org/wiki/Natalie_Portman#/media/Fichier:Natalie_Portman-4352_(cropped).jpg"
+            },
+            {
+                "nom": "Samuel L. Jackson",
+                "lien": "https://fr.wikipedia.org/wiki/Samuel_L._Jackson#/media/Fichier:SamuelLJackson.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Sin City",
+        "date": 2005,
+        "genre": [
+            "Néo-noir",
+            "Action"
+        ],
+        "acteur": [
+            {
+                "nom": "Mickey Rourke",
+                "lien": "https://fr.wikipedia.org/wiki/Mickey_Rourke#/media/Fichier:Mickey_Rourke_Tribeca_2009_Shankbone.jpg"
+            },
+            {
+                "nom": "Bruce Willis",
+                "lien": "https://fr.wikipedia.org/wiki/Bruce_Willis#/media/Fichier:Bruce_Willis_by_Gage_Skidmore_3.jpg"
+            },
+            {
+                "nom": "Jessica Alba",
+                "lien": "https://fr.wikipedia.org/wiki/Jessica_Alba#/media/Fichier:Jessica_Alba_-_Los_Angeles_Comic_Con_2025.jpg"
+            },
+            {
+                "nom": "Clive Owen",
+                "lien": "https://fr.wikipedia.org/wiki/Clive_Owen#/media/Fichier:Clive_Owen_-_Berlin_Berlinale_66.jpg"
+            },
+            {
+                "nom": "Benicio Del Toro",
+                "lien": "https://fr.wikipedia.org/wiki/Benicio_del_Toro#/media/Fichier:Benicio_del_Toro-7624.jpg"
+            },
+            {
+                "nom": "Elijah Wood",
+                "lien": "https://fr.wikipedia.org/wiki/Elijah_Wood#/media/Fichier:Elijah_Wood_at_the_2025_Sundance_Film_Festival.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Harry Potter et la Coupe de Feu",
+        "date": 2005,
+        "genre": [
+            "Fantastique",
+            "Fantaisie"
+        ],
+        "acteur": [
+            {
+            "nom": "Daniel Radcliffe",
+            "lien": "https://fr.wikipedia.org/wiki/Daniel_Radcliffe#/media/Fichier:DanielRadcliffe.jpg"
+            },
+            {
+            "nom": "Emma Watson",
+            "lien": "https://fr.wikipedia.org/wiki/Emma_Watson#/media/Fichier:Emma_Watson_in_September_2025_in_an_interview_for_Jay_Shetty_Podcast_(Youtube_channel).jpg"
+            },
+            {
+            "nom": "Rupert Grint",
+            "lien": "https://fr.wikipedia.org/wiki/Rupert_Grint#/media/Fichier:Rupert_Grint_at_Berlin_Film_Festival_2026,_(P1230719).jpg"
+            },
+            {
+                "nom": "Alan Rickman",
+                "lien": "https://fr.wikipedia.org/wiki/Alan_Rickman#/media/Fichier:Alan_Rickman_after_Seminar_(3).jpg"
+            },
+            {
+                "nom": "Maggie Smith",
+                "lien": "https://fr.wikipedia.org/wiki/Maggie_Smith#/media/Fichier:Maggie_Smith_-_Vintage_(trim).jpg"
+            },
+            {
+                "nom": "Michael Gambon",
+                "lien": "https://fr.wikipedia.org/wiki/Michael_Gambon#/media/Fichier:Michael_Gambon_cropped.jpg"
+            },
+            {
+                "nom": "Robbie Coltrane",
+                "lien": "https://fr.wikipedia.org/wiki/Robbie_Coltrane#/media/Fichier:Robbiecoltranecrop.jpg"
+            },
+            {
+                "nom": "Ralph Fiennes",
+                "lien": "https://fr.wikipedia.org/wiki/Ralph_Fiennes#/media/Fichier:Ralph_Fiennes_2024.jpg"
+            },
+            {
+                "nom": "Brendan Gleeson",
+                "lien": "https://fr.wikipedia.org/wiki/Brendan_Gleeson#/media/Fichier:BansheesBFI131022_(19_of_22)_(52448312588)_(cropped).jpg"
+            },
+            {
+                "nom": "Robert Pattinson",
+                "lien": "https://fr.wikipedia.org/wiki/Robert_Pattinson#/media/Fichier:Robert_Pattinson_at_Berlinale_2025.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Mr. & Mrs. Smith",
+        "date": 2005,
+        "genre": [
+            "Action",
+            "Comédie",
+            "Romance"
+        ],
+        "acteur": [
+            {
+            "nom": "Brad Pitt",
+            "lien": "https://fr.wikipedia.org/wiki/Brad_Pitt#/media/Fichier:Brad_Pitt-69858.jpg"
+            },
+            {
+            "nom": "Angelina Jolie",
+            "lien": "https://fr.wikipedia.org/wiki/Angelina_Jolie#/media/Fichier:Angelina_Jolie_at_the_2024_Toronto_International_Film_Festival_(cropped).jpg"
+            },
+            {
+            "nom": "Vince Vaughn",
+            "lien": "https://fr.wikipedia.org/wiki/Vince_Vaughn#/media/Fichier:Actor_Vince_Vaughn_2025_(cropped).jpg"
+            },
+            {
+                "nom": "Adam Brody",
+                "lien": "https://fr.wikipedia.org/wiki/Adam_Brody#/media/Fichier:Adam_Brody_2009.jpg"
+            }
+        ]
+    },
+    {
+        "film": "Charlie et la Chocolaterie",
+        "date": 2005,
+        "genre": [
+            "Fantastique",
+            "Comédie"
+        ],
+        "acteur": [
+            {
+            "nom": "Johnny Depp",
+            "lien": "https://fr.wikipedia.org/wiki/Johnny_Depp#/media/Fichier:Johnny_Depp_2020.jpg"
+            },
+            {
+            "nom": "Freddie Highmore",
+            "lien": "https://fr.wikipedia.org/wiki/Freddie_Highmore#/media/Fichier:Freddie_Highmore_2013_(Straighten_Crop).jpg"
+            },
+            {
+            "nom": "Christopher Lee",
+            "lien": "https://fr.wikipedia.org/wiki/Christopher_Lee#/media/Fichier:Christopher_Lee,_Women's_World_Awards_2009_(cropped).jpg"
+            },
+            {
+                "nom": "Helena Bonham Carter",
+                "lien": "https://fr.wikipedia.org/wiki/Helena_Bonham_Carter#/media/Fichier:MerchantIvoryCurzMayfair201124_(9_of_28)_(54154554480)_(cropped).jpg"
+            }
+        ]
+    },
+    {
+        "film": "La Guerre des Mondes",
+        "date": 2005,
+        "genre": [
+            "Science-fiction",
+            "Post-apocalyptique",
+            "Thriller"
+        ],
+        "acteur": [
+            {
+            "nom": "Tom Cruise",
+            "lien": "https://fr.wikipedia.org/wiki/Tom_Cruise#/media/Fichier:CROP_Tom_Cruise_during_the_2025_Cannes_Film_Festival_03.png"
+            },
+            {
+            "nom": "Dakota Fanning",
+            "lien": "https://fr.wikipedia.org/wiki/Dakota_Fanning#/media/Fichier:Dakota_Fanning_SAG_AWARDS_2020.jpg"
+            },
+            {
+            "nom": "Justin Chatwin",
+            "lien": "https://fr.wikipedia.org/wiki/Justin_Chatwin#/media/Fichier:Justin_Chatwin_on_the_red_carpet_at_the_2022_Dances_with_Films.jpg"
+            },
+            {
+                "nom": "Morgan Freeman",
+                "lien": "https://fr.wikipedia.org/wiki/Morgan_Freeman#/media/Fichier:Morgan_Freeman_Deauville_2018.jpg"
+            }
+        ]
+    },
+    {
+        "film": "40 ans toujours puceau",
+        "date": 2005,
+        "genre": [
+            "Comédie",
+            "Romance"
+        ],
+        "acteur": [
+            {
+            "nom": "Steve Carell",
+            "lien": "https://fr.wikipedia.org/wiki/Steve_Carell#/media/Fichier:Steve_Carell_-_The_40-Year-Old-Virgin.jpg"
+            },
+            {
+            "nom": "Catherine Keener",
+            "lien": "https://fr.wikipedia.org/wiki/Catherine_Keener#/media/Fichier:Catherine_Keener_-_The_40-Year-Old-Virgin.jpg"
+            },
+            {
+            "nom": "Paul Rudd",
+            "lien": "https://fr.wikipedia.org/wiki/Paul_Rudd#/media/Fichier:Paul_Rudd_and_Kate_Mara_at_the_2024_Toronto_International_Film_Festival_9.jpg"
+            },
+            {
+                "nom": "Seth Rogen",
+                "lien": "https://fr.wikipedia.org/wiki/Seth_Rogen#/media/Fichier:Seth_Rogen_at_the_Sundance_Film_Festival_2026_(cropped).jpg"
+            },
+            {
+                "nom": "Romany Malco",
+                "lien":"https://fr.wikipedia.org/wiki/Romany_Malco#/media/Fichier:Romany_Malco_by_David_Shankbone.jpg"
+            },
+            {
+                "nom": "Elizabeth Banks",
+                "lien":"https://fr.wikipedia.org/wiki/Elizabeth_Banks#/media/Fichier:Elizabeth_Banks_by_Gage_Skidmore.jpg"
+            },
+            {
+                "nom": "Jane Lynch",
+                "lien":"https://fr.wikipedia.org/wiki/Jane_Lynch#/media/Fichier:Jane_Lynch_at_the_2016_Willfilm_Awards.jpg"
+            }
+        ]
+    },
+    {
+        "film": "King Kong",
+        "date": 2005,
+        "genre": [
+            "Aventure",
+            "Drame"
+        ],
+        "acteur": [
+            {
+            "nom": "Andy Serkis",
+            "lien": "https://fr.wikipedia.org/wiki/Andy_Serkis#/media/Fichier:Andy_Serkis_at_MEGACON_Orlando_2025.png"
+            },
+            {
+            "nom": "Naomi Watts",
+            "lien": "https://fr.wikipedia.org/wiki/Naomi_Watts#/media/Fichier:Naomi_Watts_at_the_2024_New_York_Film_Festival_3_(cropped).jpg"
+            },
+            {
+            "nom": "Adrien Brody",
+            "lien": "https://fr.wikipedia.org/wiki/Adrien_Brody#/media/Fichier:Adrien_Brody_Is_This_Thing_On-90.jpg"
+            },
+            {
+            "nom": "Jack Black",
+            "lien": "https://fr.wikipedia.org/wiki/Jack_Black#/media/Fichier:TenaciousDO2160623_(38_of_62)_Jack_Black.jpg"
+            },
+            {
+            "nom": "Thomas Kretschmann",
+            "lien": "https://fr.wikipedia.org/wiki/Thomas_Kretschmann#/media/Fichier:Thomas_Kretschmann_(Berlinale_2012).jpg"
+            }
+        ]
+    },
+    {
+        "film": "Le Prestige",
+        "date": 2006,
+        "genre": [
+            "Thriller",
+            "Fantastique",
+            "Science-fiction"
+        ],
+        "acteur": [
+            {
+            "nom": "Hugh Jackman",
+            "lien": "https://fr.wikipedia.org/wiki/Hugh_Jackman#/media/Fichier:Hugh_Jackman_Is_This_Thing_On-68_(cropped).jpg"
+            },
+            {
+            "nom": "Christian Bale",
+            "lien": "https://fr.wikipedia.org/wiki/Christian_Bale#/media/Fichier:Christian_Bale-7837.jpg"
+            },
+            {
+            "nom": "Michael Caine",
+            "lien": "https://fr.wikipedia.org/wiki/Michael_Caine#/media/Fichier:Sir_Michael_Caine,_28th_EFA_Awards_2015,_Berlin_(cropped).jpg"
+            },
+            {
+            "nom": "Scarlett Johansson",
+            "lien": "https://fr.wikipedia.org/wiki/Scarlett_Johansson#/media/Fichier:Scarlett_Johansson_293_(cropped2).jpg"
+            },
+            {
+            "nom": "David Bowie",
+            "lien": "https://fr.wikipedia.org/wiki/David_Bowie#/media/Fichier:David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg"
+            }
+        ]
+    },
+    {
+    "film": "Les Infiltrés",
+    "date": 2006,
+    "genre": [
+        "Policier",
+        "Thriller",
+        "Drame"
+    ],
+    "acteur": [
+            {
+                "nom": "Leonardo DiCaprio",
+                "lien": "https://fr.wikipedia.org/wiki/Leonardo_DiCaprio#/media/Fichier:LeoPTABFI191125-28_(cropped).jpg"
+            },
+            {
+                "nom": "Matt Damon",
+                "lien": "https://fr.wikipedia.org/wiki/Matt_Damon#/media/Fichier:Matt_Damon_at_Berlinale_2024_Ausschnitt.jpg"
+            },
+            {
+                "nom": "Jack Nicholson",
+                "lien": "https://fr.wikipedia.org/wiki/Jack_Nicholson#/media/Fichier:Jack_Nicholson_cropped_2010.jpg"
+            },
+            {
+                "nom": "Mark Wahlberg",
+                "lien": "https://fr.wikipedia.org/wiki/Mark_Wahlberg#/media/Fichier:Mark_Wahlberg_2021.jpg"
+            }
+        ]
+    },
+    {
+    "film": "300",
+    "date": 2006,
+    "genre": [
+        "Péplum",
+        "Action",
+        "Guerre"
+    ],
+    "acteur": [
+        {
+            "nom": "Gerard Butler",
+            "lien": "https://fr.wikipedia.org/wiki/Gerard_Butler#/media/Fichier:Gerard_Butler_(29681162176).jpg"
+        },
+        {
+            "nom": "Rodrigo Santoro",
+            "lien": "https://fr.wikipedia.org/wiki/Rodrigo_Santoro#/media/Fichier:Rodrigo_Santoro_at_Berlinale_2025-1.jpg"
+        },
+        {
+            "nom": "Dominic West",
+            "lien": "https://fr.wikipedia.org/wiki/Dominic_West#/media/Fichier:Pride_23_(15085979517).jpg"
+        },
+        {
+            "nom": "Lena Headey",
+            "lien": "https://fr.wikipedia.org/wiki/Lena_Headey#/media/Fichier:Lena_Headey_(47086135862)_(cropped).jpg"
+        },
+        {
+            "nom": "David Wenham",
+            "lien": "https://fr.wikipedia.org/wiki/David_Wenham#/media/Fichier:David_Wenham_2014_(cropped).jpg"
+        },
+        {
+            "nom": "Michael Fassbender",
+            "lien": "https://fr.wikipedia.org/wiki/Michael_Fassbender#/media/Fichier:Michael_Fassbender_by_Gage_Skidmore_2015.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Pirates des Caraïbes : Le Secret du coffre maudit",
+    "date": 2006,
+    "genre": [
+        "Aventure",
+        "Fantastique"
+    ],
+    "acteur": [
+        {
+            "nom": "Johnny Depp",
+            "lien": "https://fr.wikipedia.org/wiki/Johnny_Depp#/media/Fichier:Johnny_Depp_2020.jpg"
+        },
+        {
+            "nom": "Orlando Bloom",
+            "lien": "https://fr.wikipedia.org/wiki/Orlando_Bloom#/media/Fichier:Orlando_Bloom_at_the_2024_Toronto_International_Film_Festival_(cropped2).jpg"
+        },
+        {
+            "nom": "Keira Knightley",
+            "lien": "https://fr.wikipedia.org/wiki/Keira_Knightley#/media/Fichier:KeraK_(ropped).jpg"
+        },
+        {
+            "nom": "Bill Nighy",
+            "lien": "https://fr.wikipedia.org/wiki/Bill_Nighy#/media/Fichier:Premios_Goya_2018_-_Bill_Nighy_02.jpg"
+        },
+        {
+            "nom": "Kevin McNally",
+            "lien": "https://fr.wikipedia.org/wiki/Kevin_McNally#/media/Fichier:Kevin_McNally_by_Gage_Skidmore.jpg"
+        },
+        {
+            "nom": "Tom Hollander",
+            "lien": "https://fr.wikipedia.org/wiki/Tom_Hollander#/media/Fichier:Tom_Hollander_2017.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Le Labyrinthe de Pan",
+    "date": 2006,
+    "genre": [
+        "Dark fantasy",
+        "Drame",
+        "Horreur",
+        "Historique",
+        "Aventure"
+    ],
+    "acteur": [
+        {
+            "nom": "Ivana Baquero",
+            "lien": "https://fr.wikipedia.org/wiki/Ivana_Baquero#/media/Fichier:Ivana_baquero_2020_3.jpg"
+        },
+        {
+            "nom": "Doug Jones",
+            "lien": "https://fr.wikipedia.org/wiki/Doug_Jones_(acteur)#/media/Fichier:Doug_Jones_by_Gage_Skidmore_4.jpg"
+        },
+        {
+            "nom": "Sergi López",
+            "lien": "https://fr.wikipedia.org/wiki/Sergi_L%C3%B3pez#/media/Fichier:Sergi_L%C3%B3pez-63806.jpg"
+        },
+        {
+            "nom": "Ariadna Gil",
+            "lien": "https://fr.wikipedia.org/wiki/Ariadna_Gil#/media/Fichier:Ariadna_gil.jpg"
+        },
+        {
+            "nom": "Maribel Verdú",
+            "lien": "https://fr.wikipedia.org/wiki/Maribel_Verd%C3%BA#/media/Fichier:Goyas_2025_-_Maribel_Verd%C3%BA.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Casino Royale",
+    "date": 2006,
+    "genre": [
+        "Espionnage"
+    ],
+    "acteur": [
+        {
+            "nom": "Daniel Craig",
+            "lien": "https://fr.wikipedia.org/wiki/Daniel_Craig#/media/Fichier:Daniel_Craig_TIFF_2025_Red_Carpet_(cropped).jpg"
+        },
+        {
+            "nom": "Eva Green",
+            "lien": "https://fr.wikipedia.org/wiki/Eva_Green#/media/Fichier:EVA_GREEN_CESAR_2020.jpg"
+        },
+        {
+            "nom": "Mads Mikkelsen",
+            "lien": "https://fr.wikipedia.org/wiki/Mads_Mikkelsen#/media/Fichier:Mads_Mikkelsen_at_82nd_Venice_International_Film_Festival_(cropped).jpg"
+        },
+        {
+            "nom": "Judi Dench",
+            "lien": "https://fr.wikipedia.org/wiki/Judi_Dench#/media/Fichier:Judi_Dench_at_the_BAFTAs_2007.jpg"
+        },
+        {
+            "nom": "Jeffrey Wright",
+            "lien": "https://fr.wikipedia.org/wiki/Jeffrey_Wright#/media/Fichier:Jeffrey_Wright-7706.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Blood Diamond",
+    "date": 2006,
+    "genre": [
+        "Thriller",
+        "Drame"
+    ],
+    "acteur": [
+        {
+            "nom": "Leonardo DiCaprio",
+            "lien": "https://fr.wikipedia.org/wiki/Leonardo_DiCaprio#/media/Fichier:LeoPTABFI191125-28_(cropped).jpg"
+        },
+        {
+            "nom": "Jennifer Connelly",
+            "lien": "https://fr.wikipedia.org/wiki/Jennifer_Connelly#/media/Fichier:Jennifer_Connelly_2010_TIFF.jpg"
+        },
+        {
+            "nom": "Djimon Hounsou",
+            "lien": "https://fr.wikipedia.org/wiki/Djimon_Hounsou#/media/Fichier:Djimon_Hounsou_(26037613412).jpg"
+        },
+        {
+            "nom": "Michael Sheen",
+            "lien": "https://fr.wikipedia.org/wiki/Michael_Sheen#/media/Fichier:Michael_Sheen_by_Gage_Skidmore.jpg"
+        },
+        {
+            "nom": "Arnold Vosloo",
+            "lien": "https://fr.wikipedia.org/wiki/Arnold_Vosloo#/media/Fichier:Arnold_Vosloo_2009.jpg"
+        }
+    ]
+    },
+    {
+    "film": "À la recherche du bonheur",
+    "date": 2006,
+    "genre": [
+        "Comédie",
+        "Drame",
+        "Biopic"
+    ],
+    "acteur": [
+        {
+            "nom": "Will Smith",
+            "lien": "https://fr.wikipedia.org/wiki/Will_Smith#/media/Fichier:TechCrunch_Disrupt_2019_(48834434641)_(cropped).jpg"
+        },
+        {
+            "nom": "Jaden Smith",
+            "lien": "https://fr.wikipedia.org/wiki/Jaden_Smith#/media/Fichier:2019_-_Opening_Night_SM1_0502_(49014567373).jpg"
+        },
+        {
+            "nom": "Thandiwe Newton",
+            "lien": "https://fr.wikipedia.org/wiki/Thandiwe_Newton#/media/Fichier:Thandie_Newton_by_Gage_Skidmore_2.jpg"
+        },
+        {
+            "nom": "Brian Howe",
+            "lien": "https://www.notrecinema.com/images/usercontent/star/brian-howe-photo_6928_25483.jpg"
+        }
+    ]
+    },
+    {
+    "film": "X-Men : L'affrontement final",
+    "date": 2006,
+    "genre": [
+        "Super-héros"
+    ],
+    "acteur": [
+        {
+            "nom": "Hugh Jackman",
+            "lien": "https://fr.wikipedia.org/wiki/Hugh_Jackman#/media/Fichier:Hugh_Jackman_Is_This_Thing_On-68_(cropped).jpg"
+        },
+        {
+            "nom": "Halle Berry",
+            "lien": "https://fr.wikipedia.org/wiki/Halle_Berry#/media/Fichier:Halle_Berry-0356_(cropped).jpg"
+        },
+        {
+            "nom": "Ian McKellen",
+            "lien": "https://fr.wikipedia.org/wiki/Ian_McKellen#/media/Fichier:SDCC13_-_Ian_McKellen.jpg"
+        },
+        {
+            "nom": "Famke Janssen",
+            "lien": "https://fr.wikipedia.org/wiki/Famke_Janssen#/media/Fichier:Famke_Janssen_by_Gage_Skidmore_2.jpg"
+        },
+        {
+            "nom": "Anna Paquin",
+            "lien": "https://fr.wikipedia.org/wiki/Anna_Paquin#/media/Fichier:AnnaPaquinToronto2018.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Les Fils de l'homme",
+    "date": 2006,
+    "genre": [
+        "Drame",
+        "Thriller",
+        "Science-fiction"
+    ],
+    "acteur": [
+        {
+            "nom": "Clive Owen",
+            "lien": "https://fr.wikipedia.org/wiki/Clive_Owen#/media/Fichier:Clive_Owen_-_Berlin_Berlinale_66.jpg"
+        },
+        {
+            "nom": "Julianne Moore",
+            "lien": "https://fr.wikipedia.org/wiki/Julianne_Moore#/media/Fichier:Julianne_Moore_2024_(facecrop2).jpg"
+        },
+        {
+            "nom": "Michael Caine",
+            "lien": "https://fr.wikipedia.org/wiki/Michael_Caine#/media/Fichier:Sir_Michael_Caine,_28th_EFA_Awards_2015,_Berlin_(cropped).jpg"
+        },
+        {
+            "nom": "Clare-Hope Ashitey",
+            "lien": "https://www.notrecinema.com/images/usercontent/star/clare-hope-ashitey-photo_112049_36462.jpg"
+        },
+        {
+            "nom": "Chiwetel Ejiofor",
+            "lien": "https://fr.wikipedia.org/wiki/Chiwetel_Ejiofor#/media/Fichier:Chiwetel_Ejiofor_at_the_2024_Toronto_International_Film_Festival_(cropped).jpg"
+        }
+    ]
+    },
+    {
+    "film": "No Country for Old Men",
+    "date": 2007,
+    "genre": [
+        "Drame",
+        "Thriller",
+        "Néo-western",
+        "Néo-noir"
+    ],
+    "acteur": [
+        {
+            "nom": "Tommy Lee Jones",
+            "lien": "https://fr.wikipedia.org/wiki/Tommy_Lee_Jones#/media/Fichier:Tommy_Lee_Jones_2017.jpg"
+        },
+        {
+            "nom": "Javier Bardem",
+            "lien": "https://fr.wikipedia.org/wiki/Javier_Bardem#/media/Fichier:Javier_Bardem_during_an_interview,_March_2022_(3)_(cropped).jpg"
+        },
+        {
+            "nom": "Josh Brolin",
+            "lien": "https://fr.wikipedia.org/wiki/Josh_Brolin#/media/Fichier:Josh_Brolin_TIFF_2025_(cropped).jpg"
+        },
+        {
+            "nom": "Woody Harrelson",
+            "lien": "https://fr.wikipedia.org/wiki/Woody_Harrelson#/media/Fichier:Woody_Harrelson_191020-N-NU281-1028_(cropped).jpg"
+        }
+    ]
+    },
+    {
+    "film": "Je suis une légende",
+    "date": 2007,
+    "genre": [
+        "Science-fiction",
+        "Action",
+        "Drame",
+        "Thriller"
+    ],
+    "acteur": [
+        {
+            "nom": "Will Smith",
+            "lien": "https://fr.wikipedia.org/wiki/Will_Smith#/media/Fichier:TechCrunch_Disrupt_2019_(48834434641)_(cropped).jpg"
+        },
+        {
+            "nom": "Salli Richardson-Whitfield",
+            "lien": "https://fr.wikipedia.org/wiki/Salli_Richardson-Whitfield#/media/Fichier:Salli_Richardson-Whitfield.jpg"
+        },
+        {
+            "nom": "Alice Braga",
+            "lien": "https://fr.wikipedia.org/wiki/Alice_Braga#/media/Fichier:Alice_Braga_at_the_2008_Tribeca_Film_Festival.JPG"
+        },
+        {
+            "nom": "Willow Smith",
+            "lien": "https://fr.wikipedia.org/wiki/Willow_Smith#/media/Fichier:Willow_Smith_Black_Shield_Maiden_2024.png"
+        }
+    ]
+    },
+    {
+    "film": "Pirates des Caraïbes : Jusqu'au bout du monde",
+    "date": 2007,
+    "genre": [
+        "Aventure",
+        "Fantastique"
+    ],
+    "acteur": [
+        {
+            "nom": "Johnny Depp",
+            "lien": "https://fr.wikipedia.org/wiki/Johnny_Depp#/media/Fichier:Johnny_Depp_2020.jpg"
+        },
+        {
+            "nom": "Orlando Bloom",
+            "lien": "https://fr.wikipedia.org/wiki/Orlando_Bloom#/media/Fichier:Orlando_Bloom_at_the_2024_Toronto_International_Film_Festival_(cropped2).jpg"
+        },
+        {
+            "nom": "Keira Knightley",
+            "lien": "https://fr.wikipedia.org/wiki/Keira_Knightley#/media/Fichier:KeraK_(ropped).jpg"
+        },
+        {
+            "nom": "Geoffrey Rush",
+            "lien": "https://fr.wikipedia.org/wiki/Geoffrey_Rush#/media/Fichier:Gala_de_%C3%AEnchidere_TIFF.22_2023_(52983461438)~2.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Transformers",
+    "date": 2007,
+    "genre": [
+        "Science-fiction",
+        "Action"
+    ],
+    "acteur": [
+        {
+            "nom": "Shia LaBeouf",
+            "lien": "https://fr.wikipedia.org/wiki/Shia_LaBeouf#/media/Fichier:Shia_LaBeouf_2022.jpg"
+        },
+        {
+            "nom": "Megan Fox",
+            "lien": "https://fr.wikipedia.org/wiki/Megan_Fox#/media/Fichier:Megan_Fox_-_Jennifer's_Body.jpg"
+        },
+        {
+            "nom": "Jon Voight",
+            "lien": "https://fr.wikipedia.org/wiki/Jon_Voight#/media/Fichier:Jon_Voight_2024_(2).jpg"
+        },
+        {
+            "nom": "John Turturro",
+            "lien": "https://fr.wikipedia.org/wiki/John_Turturro#/media/Fichier:John_Turturro_at_the_2024_Toronto_International_Film_Festival_for_The_Cut_(cropped).jpg"
+        }
+    ]
+    },
+    {
+    "film": "There Will Be Blood",
+    "date": 2007,
+    "genre": [
+        "Drame",
+        "Historique"
+    ],
+    "acteur": [
+        {
+            "nom": "Daniel Day-Lewis",
+            "lien": "https://fr.wikipedia.org/wiki/Daniel_Day-Lewis#/media/Fichier:Daniel_Day-Lewis_Anemone-15_(cropped).jpg"
+        },
+        {
+            "nom": "Paul Dano",
+            "lien": "https://fr.wikipedia.org/wiki/Paul_Dano#/media/Fichier:Paul_Dano-8062_(cropped).jpg"
+        },
+        {
+            "nom": "Ciarán Hinds",
+            "lien": "https://fr.wikipedia.org/wiki/Ciar%C3%A1n_Hinds#/media/Fichier:Ciar%C3%A1n_Hinds_in_2022.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Harry Potter et l'Ordre du Phénix",
+    "date": 2007,
+    "genre": [
+        "Fantasy"
+    ],
+    "acteur": [
+        {
+            "nom": "Daniel Radcliffe",
+            "lien": "https://fr.wikipedia.org/wiki/Daniel_Radcliffe#/media/Fichier:DanielRadcliffe.jpg"
+        },
+        {
+            "nom": "Rupert Grint",
+            "lien": "https://fr.wikipedia.org/wiki/Rupert_Grint#/media/Fichier:Rupert_Grint_at_Berlin_Film_Festival_2026,_(P1230719).jpg"
+        },
+        {
+            "nom": "Emma Watson",
+            "lien": "https://fr.wikipedia.org/wiki/Emma_Watson#/media/Fichier:Emma_Watson_in_September_2025_in_an_interview_for_Jay_Shetty_Podcast_(Youtube_channel).jpg"
+        },
+        {
+            "nom": "Michael Gambon",
+            "lien": "https://fr.wikipedia.org/wiki/Michael_Gambon#/media/Fichier:Michael_Gambon_cropped.jpg"
+        },
+        {
+            "nom": "Imelda Staunton",
+            "lien": "https://fr.wikipedia.org/wiki/Imelda_Staunton#/media/Fichier:Imelda_Staunton,_October_2019.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Spider-Man 3",
+    "date": 2007,
+    "genre": [
+        "Fantastique",
+        "Super-héros"
+    ],
+    "acteur": [
+        {
+            "nom": "Tobey Maguire",
+            "lien": "https://fr.wikipedia.org/wiki/Tobey_Maguire#/media/Fichier:Tobey_Maguire_2014.jpg"
+        },
+        {
+            "nom": "Thomas Haden Church",
+            "lien": "https://en.wikipedia.org/wiki/Thomas_Haden_Church#/media/File:Thomas_Haden_Church_at_the_2009_Tribeca_Film_Festival.jpg"
+        },
+        {
+            "nom": "Kirsten Dunst",
+            "lien": "https://fr.wikipedia.org/wiki/Kirsten_Dunst#/media/Fichier:Kirsten_Dunst_(2017_crop).jpg"
+        },
+        {
+            "nom": "James Franco",
+            "lien": "https://fr.wikipedia.org/wiki/James_Franco#/media/Fichier:James_Franco_4,_2013.jpg"
+        },
+        {
+            "nom": "Topher Grace",
+            "lien": "https://fr.wikipedia.org/wiki/Topher_Grace#/media/Fichier:Topher_Grace_2019_by_Glenn_Francis.jpg"
+        },
+        {
+            "nom": "Bryce Dallas Howard",
+            "lien": "https://fr.wikipedia.org/wiki/Bryce_Dallas_Howard#/media/Fichier:Bryce_Dallas_Howard_-_Los_Angeles_Comic_Con_2025.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Into the Wild",
+    "date": 2007,
+    "genre": [
+        "Biopic",
+        "Aventure"
+    ],
+    "acteur": [
+        {
+            "nom": "Emile Hirsch",
+            "lien": "https://fr.wikipedia.org/wiki/Emile_Hirsch#/media/Fichier:Emile_Hirsch_TIFF_2012.jpg"
+        },
+        {
+            "nom": "Kristen Stewart",
+            "lien": "https://fr.wikipedia.org/wiki/Kristen_Stewart#/media/Fichier:Kristen_Stewart_at_WWD_Style_Awards_2026.jpg"
+        },
+        {
+            "nom": "Marcia Gay Harden",
+            "lien": "https://fr.wikipedia.org/wiki/Marcia_Gay_Harden#/media/Fichier:Marcia_Gay_Harden_2013_(cropped).jpg"
+        },
+        {
+            "nom": "William Hurt",
+            "lien": "https://fr.wikipedia.org/wiki/William_Hurt#/media/Fichier:History_of_Violence_002_(7271227040).jpg"
+        },
+        {
+            "nom": "Jena Malone",
+            "lien": "https://fr.wikipedia.org/wiki/Jena_Malone#/media/Fichier:Jena_Malone_Deauville.jpg"
+        }
+    ]
+    },
+    {
+    "film": "SuperGrave",
+    "date": 2007,
+    "genre": [
+        "Comédie"
+    ],
+    "acteur": [
+        {
+            "nom": "Jonah Hill",
+            "lien": "https://fr.wikipedia.org/wiki/Jonah_Hill#/media/Fichier:Jonah_Hill-4939_(cropped).jpg"
+        },
+        {
+            "nom": "Michael Cera",
+            "lien": "https://fr.wikipedia.org/wiki/Michael_Cera#/media/Fichier:MKr22364_Michael_Cera_(The_Adults,_Berlinale_2023).jpg"
+        },
+        {
+            "nom": "Christopher Mintz-Plasse",
+            "lien": "https://fr.wikipedia.org/wiki/Christopher_Mintz-Plasse#/media/Fichier:Christopher_Mintz-Plasse_by_Gage_Skidmore.jpg"
+        },
+        {
+            "nom": "Seth Rogen",
+            "lien": "https://fr.wikipedia.org/wiki/Seth_Rogen#/media/Fichier:Seth_Rogen_at_the_Sundance_Film_Festival_2026_(cropped).jpg"
+        },
+        {
+            "nom": "Bill Hader",
+            "lien": "https://fr.wikipedia.org/wiki/Bill_Hader#/media/Fichier:Bill_Hader_(29419489470)_(cropped).jpg"
+        }
+    ]
+    },
+    {
+    "film": "La Vengeance dans la peau",
+    "date": 2007,
+    "genre": [
+        "Espionnage"
+    ],
+    "acteur": [
+        {
+            "nom": "Matt Damon",
+            "lien": "https://fr.wikipedia.org/wiki/Matt_Damon#/media/Fichier:Matt_Damon_at_Berlinale_2024_Ausschnitt.jpg"
+        },
+        {
+            "nom": "Julia Stiles",
+            "lien": "https://fr.wikipedia.org/wiki/Julia_Stiles#/media/Fichier:Julia_Stiles_by_David_Shankbone_cropped.jpg"
+        },
+        {
+            "nom": "Joan Allen",
+            "lien": "https://fr.wikipedia.org/wiki/Joan_Allen#/media/Fichier:JoanAllen2000TIFF.jpg"
+        },
+        {
+            "nom": "David Strathairn",
+            "lien": "https://fr.wikipedia.org/wiki/David_Strathairn#/media/Fichier:American_Pastoral_07_(29694288251).jpg"
+        },
+        {
+            "nom": "Scott Glenn",
+            "lien": "https://fr.wikipedia.org/wiki/Scott_Glenn#/media/Fichier:Scott_Glenn_2011_Shankbone.JPG"
+        }
+    ]
+    },
+    {
+    "film": "The Dark Knight : Le Chevalier noir",
+    "date": 2008,
+    "genre": [
+        "Action",
+        "Super-héros"
+    ],
+    "acteur": [
+        {
+            "nom": "Christian Bale",
+            "lien": "https://fr.wikipedia.org/wiki/Christian_Bale#/media/Fichier:Christian_Bale-7837.jpg"
+        },
+        {
+            "nom": "Michael Caine",
+            "lien": "https://fr.wikipedia.org/wiki/Michael_Caine#/media/Fichier:Sir_Michael_Caine,_28th_EFA_Awards_2015,_Berlin_(cropped).jpg"
+        },
+        {
+            "nom": "Heath Ledger",
+            "lien": "https://fr.wikipedia.org/wiki/Heath_Ledger#/media/Fichier:Heath_Ledger.jpg"
+        },
+        {
+            "nom": "Gary Oldman",
+            "lien": "https://fr.wikipedia.org/wiki/Gary_Oldman#/media/Fichier:Gary_Oldman_Cannes_2018.jpg"
+        },
+        {
+            "nom": "Aaron Eckhart",
+            "lien": "https://fr.wikipedia.org/wiki/Aaron_Eckhart#/media/Fichier:Aaron_Eckhart_(29830286295)_(cropped).jpg"
+        }
+    ]
+    },
+    {
+    "film": "Iron Man",
+    "date": 2008,
+    "genre": [
+        "Action",
+        "Super-héros"
+    ],
+    "acteur": [
+        {
+            "nom": "Robert Downey Jr.",
+            "lien": "https://fr.wikipedia.org/wiki/Robert_Downey_Jr.#/media/Fichier:Robert_Downey_Jr_2014_Comic_Con_(cropped).jpg"
+        },
+        {
+            "nom": "Gwyneth Paltrow",
+            "lien": "https://fr.wikipedia.org/wiki/Gwyneth_Paltrow#/media/Fichier:Gwyneth_Paltrow_-_Marty_Supreme.jpg"
+        },
+        {
+            "nom": "Terrence Howard",
+            "lien": "https://fr.wikipedia.org/wiki/Terrence_Howard#/media/Fichier:Terrence_Howard_-_Monte-Carlo.jpg"
+        },
+        {
+            "nom": "Jeff Bridges",
+            "lien": "https://fr.wikipedia.org/wiki/Jeff_Bridges#/media/Fichier:Jeff_Bridges_by_Gage_Skidmore_4.jpg"
+        },
+        {
+            "nom": "Shaun Toub",
+            "lien": "https://fr.wikipedia.org/wiki/Shaun_Toub#/media/Fichier:Shaun_Toub_2011.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Slumdog Millionaire",
+    "date": 2008,
+    "genre": [
+        "Drame"
+    ],
+    "acteur": [
+        {
+            "nom": "Dev Patel",
+            "lien": "https://fr.wikipedia.org/wiki/Dev_Patel#/media/Fichier:Dev_Patel_(29870651654).jpg"
+        },
+        {
+            "nom": "Freida Pinto",
+            "lien": "https://fr.wikipedia.org/wiki/Freida_Pinto#/media/Fichier:Malala_and_Freida_Pinto_meet_the_Youth_For_Change_panel_cropped_frida.jpg"
+        },
+        {
+            "nom": "Anil Kapoor",
+            "lien": "https://en.wikipedia.org/wiki/Anil_Kapoor#/media/File:Anil_Kapoor_1.jpeg"
+        },
+        {
+            "nom": "Irfan Khan",
+            "lien": "https://fr.wikipedia.org/wiki/Irfan_Khan#/media/Fichier:Irrfan_Khan_May_2015_(cropped).jpg"
+        },
+        {
+            "nom": "Ayush Mahesh Khedekar",
+            "lien": "https://fr.wikipedia.org/wiki/Ayush_Mahesh_Khedekar#/media/Fichier:Ayush_Khedekar_on_trailer_launch_of_'Ek_Tha_Hero'.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Gran Torino",
+    "date": 2008,
+    "genre": [
+        "Drame"
+    ],
+    "acteur": [
+        {
+            "nom": "Clint Eastwood",
+            "lien": "https://fr.wikipedia.org/wiki/Clint_Eastwood#/media/Fichier:Clint_Eastwood_visits_MCB_Camp_Pendleton_(1)_(cropped).jpg"
+        },
+        {
+            "nom": "Bee Vang",
+            "lien": "https://fr.wikipedia.org/wiki/Bee_Vang#/media/Fichier:Bee_Vang.jpg"
+        },
+        {
+            "nom": "Ahney Her",
+            "lien": "https://www.notrecinema.com/images/usercontent/star/ahney-her-photo_52684_37983.jpg"
+        }
+    ]
+    },
+    {
+    "film": "L'Étrange Histoire de Benjamin Button",
+    "date": 2008,
+    "genre": [
+        "Fantastique"
+    ],
+    "acteur": [
+        {
+            "nom": "Brad Pitt",
+            "lien": "https://fr.wikipedia.org/wiki/Brad_Pitt#/media/Fichier:Brad_Pitt-69858.jpg"
+        },
+        {
+            "nom": "Cate Blanchett",
+            "lien": "https://fr.wikipedia.org/wiki/Cate_Blanchett#/media/Fichier:Cate_Blanchett_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+        }
+    ]
+    },
+    {
+    "film": "Taken",
+    "date": 2008,
+    "genre": [
+        "Action",
+        "Thriller"
+    ],
+    "acteur": [
+        {
+            "nom": "Liam Neeson",
+            "lien": "https://fr.wikipedia.org/wiki/Liam_Neeson#/media/Fichier:Liam_Neeson_Deauville_2012.jpg"
+        },
+        {
+            "nom": "Maggie Grace",
+            "lien": "https://fr.wikipedia.org/wiki/Maggie_Grace#/media/Fichier:Maggie_Grace_by_Gage_Skidmore_2.jpg"
+        },
+        {
+            "nom": "Famke Janssen",
+            "lien": "https://fr.wikipedia.org/wiki/Famke_Janssen#/media/Fichier:Famke_Janssen_by_Gage_Skidmore_2.jpg"
+        }
+    ]
+    },
+    {
+    "film": "L'incroyable Hulk",
+    "date": 2008,
+    "genre": [
+        "Action",
+        "Super-héros"
+    ],
+    "acteur": [
+        {
+            "nom": "Edward Norton",
+            "lien": "https://fr.wikipedia.org/wiki/Edward_Norton#/media/Fichier:Ed_Norton_and_Shauna_Robertson_TIFF_2025_(cropped).jpg"
+        },
+        {
+            "nom": "Liv Tyler",
+            "lien": "https://fr.wikipedia.org/wiki/Liv_Tyler#/media/Fichier:Liv_Tyler_(2016).jpg"
+        },
+        {
+            "nom": "Tim Roth",
+            "lien": "https://fr.wikipedia.org/wiki/Tim_Roth#/media/Fichier:Tim_Roth_Cannes_2021.jpg"
+        },
+        {
+            "nom": "William Hurt",
+            "lien": "https://fr.wikipedia.org/wiki/William_Hurt#/media/Fichier:History_of_Violence_002_(7271227040).jpg"
+        },
+        {
+            "nom": "Tim Blake Nelson",
+            "lien": "https://fr.wikipedia.org/wiki/Tim_Blake_Nelson#/media/Fichier:Tim_Blake_Nelson_2016.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Hancock",
+    "date": 2008,
+    "genre": [
+        "Fantastique"
+    ],
+    "acteur": [
+        {
+            "nom": "Will Smith",
+            "lien": "https://fr.wikipedia.org/wiki/Will_Smith#/media/Fichier:TechCrunch_Disrupt_2019_(48834434641)_(cropped).jpg"
+        },
+        {
+            "nom": "Charlize Theron",
+            "lien": "https://fr.wikipedia.org/wiki/Charlize_Theron#/media/Fichier:Charlize-theron-IMG_6045.jpg"
+        },
+        {
+            "nom": "Jason Bateman",
+            "lien": "https://fr.wikipedia.org/wiki/Jason_Bateman#/media/Fichier:Jason_Batement_at_the_Air_Premiere_(cropped).jpg"
+        }
+    ]
+    },
+    {
+    "film": "Twilight, chapitre I : Fascination",
+    "date": 2008,
+    "genre": [
+        "Fantastique",
+        "Action",
+        "Romance"
+    ],
+    "acteur": [
+        {
+            "nom": "Kristen Stewart",
+            "lien": "https://fr.wikipedia.org/wiki/Kristen_Stewart#/media/Fichier:Kristen_Stewart_at_WWD_Style_Awards_2026.jpg"
+        },
+        {
+            "nom": "Robert Pattinson",
+            "lien": "https://fr.wikipedia.org/wiki/Robert_Pattinson#/media/Fichier:Robert_Pattinson_at_Berlinale_2025.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Indiana Jones et le Royaume du crâne de cristal",
+    "date": 2008,
+    "genre": [
+        "Aventure",
+        "Action",
+        "Science-fiction"
+    ],
+    "acteur": [
+        {
+            "nom": "Harrison Ford",
+            "lien": "https://nl.wikipedia.org/wiki/Harrison_Ford#/media/Bestand:Harrison_Ford_by_Gage_Skidmore_3.jpg"
+        },
+        {
+            "nom": "Karen Allen",
+            "lien": "https://fr.wikipedia.org/wiki/Karen_Allen#/media/Fichier:Karenallen17_cropped.jpg"
+        },
+        {
+            "nom": "Cate Blanchett",
+            "lien": "https://fr.wikipedia.org/wiki/Cate_Blanchett#/media/Fichier:Cate_Blanchett_at_the_2024_Toronto_International_Film_Festival_2_(cropped).jpg"
+        },
+        {
+            "nom": "John Hurt",
+            "lien": "https://fr.wikipedia.org/wiki/John_Hurt#/media/Fichier:John_Hurt_at_the_2009_Tribeca_Film_Festival.jpg"
+        },
+        {
+            "nom": "Shia LaBeouf",
+            "lien": "https://fr.wikipedia.org/wiki/Shia_LaBeouf#/media/Fichier:Shia_LaBeouf_2022.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Inglourious Basterds",
+    "date": 2009,
+    "genre": [
+        "Guerre"
+    ],
+    "acteur": [
+        {
+            "nom": "Brad Pitt",
+            "lien": "https://fr.wikipedia.org/wiki/Brad_Pitt#/media/Fichier:Brad_Pitt-69858.jpg"
+        },
+        {
+            "nom": "Christoph Waltz",
+            "lien": "https://fr.wikipedia.org/wiki/Christoph_Waltz#/media/Fichier:Christoph_Waltz_at_82nd_Venice_International_Film_Festival-1_(cropped).jpg"
+        },
+        {
+            "nom": "Mélanie Laurent",
+            "lien": "https://fr.wikipedia.org/wiki/M%C3%A9lanie_Laurent#/media/Fichier:MKr377943_M%C3%A9lanie_Laurent_(Qui_brille_au_combat,_Cannes_2025).jpg"
+        },
+        {
+            "nom": "Eli Roth",
+            "lien": "https://fr.wikipedia.org/wiki/Eli_Roth#/media/Fichier:Eli_Roth_Photo_Op_Nightmare_Weekend_Chicago_2025.jpg"
+        },
+        {
+            "nom": "Diane Kruger",
+            "lien": "https://fr.wikipedia.org/wiki/Diane_Kruger#/media/Fichier:MKr378435_Diane_Kruger_(Amrum,_Cannes_2025).jpg"
+        }
+    ]
+    },
+    {
+    "film": "Very Bad Trip",
+    "date": 2009,
+    "genre": [
+        "Comédie"
+    ],
+    "acteur": [
+        {
+            "nom": "Bradley Cooper",
+            "lien": "https://fr.wikipedia.org/wiki/Bradley_Cooper#/media/Fichier:Bradley_Cooper_Is_This_Thing_On-41_(cropped).jpg"
+        },
+        {
+            "nom": "Ed Helms",
+            "lien": "https://fr.wikipedia.org/wiki/Ed_Helms#/media/Fichier:Ed_Helms_-_SNAFU.jpg"
+        },
+        {
+            "nom": "Zach Galifianakis",
+            "lien": "https://fr.wikipedia.org/wiki/Zach_Galifianakis#/media/Fichier:Zach_Galifianakis_2012_(cropped).jpg"
+        },
+        {
+            "nom": "Heather Graham",
+            "lien": "https://fr.wikipedia.org/wiki/Heather_Graham#/media/Fichier:HeatherGrahamByDimitriSarantis2011.jpg"
+        },
+        {
+            "nom": "Justin Bartha",
+            "lien": "https://fr.wikipedia.org/wiki/Justin_Bartha#/media/Fichier:Justin_Bartha_2.jpg"
+        }
+    ]
+    },
+    {
+    "film": "District 9",
+    "date": 2009,
+    "genre": [
+        "Science-fiction",
+        "Action"
+    ],
+    "acteur": [
+        {
+            "nom": "Sharlto Copley",
+            "lien": "https://fr.wikipedia.org/wiki/Sharlto_Copley#/media/Fichier:Sharlto_Copley_on_the_Green_Carpet_at_the_2025_Zurich_Film_Festival_01.jpg"
+        },
+        {
+            "nom": "Nathalie Boltt",
+            "lien": "https://www.notrecinema.com/images/usercontent/star/nathalie-boltt-photo_148407_17338.jpg"
+        },
+        {
+            "nom": "Sylvaine Strike",
+            "lien": "https://www.notrecinema.com/images/usercontent/star/sylvaine-strike-photo_142981_33237.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Sherlock Holmes",
+    "date": 2009,
+    "genre": [
+        "Action",
+        "Aventure"
+    ],
+    "acteur": [
+        {
+            "nom": "Robert Downey Jr.",
+            "lien": "https://fr.wikipedia.org/wiki/Robert_Downey_Jr.#/media/Fichier:Robert_Downey_Jr_2014_Comic_Con_(cropped).jpg"
+        },
+        {
+            "nom": "Jude Law",
+            "lien": "https://fr.wikipedia.org/wiki/Jude_Law#/media/Fichier:Jude_Law-7806.jpg"
+        },
+        {
+            "nom": "Rachel McAdams",
+            "lien": "https://fr.wikipedia.org/wiki/Rachel_McAdams#/media/Fichier:Rachel_McAdams_-_Walk_of_Fame.jpg"
+        },
+        {
+            "nom": "Mark Strong",
+            "lien": "https://fr.wikipedia.org/wiki/Mark_Strong#/media/Fichier:Mark_Strong.jpg"
+        },
+        {
+            "nom": "Kelly Reilly",
+            "lien": "https://fr.wikipedia.org/wiki/Kelly_Reilly#/media/Fichier:Kelly_Reilly_2013_2.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Bienvenue à Zombieland",
+    "date": 2009,
+    "genre": [
+        "Comédie",
+        "Horreur"
+    ],
+    "acteur": [
+        {
+            "nom": "Woody Harrelson",
+            "lien": "https://fr.wikipedia.org/wiki/Woody_Harrelson#/media/Fichier:Woody_Harrelson_191020-N-NU281-1028_(cropped).jpg"
+        },
+        {
+            "nom": "Jesse Eisenberg",
+            "lien": "https://fr.wikipedia.org/wiki/Jesse_Eisenberg#/media/Fichier:JesseEisenberg-byPhilipRomano.jpg"
+        },
+        {
+            "nom": "Emma Stone",
+            "lien": "https://fr.wikipedia.org/wiki/Emma_Stone#/media/Fichier:Emma_Stone_at_the_2025_Cannes_Film_Festival_04.jpg"
+        },
+        {
+            "nom": "Abigail Breslin",
+            "lien": "https://fr.wikipedia.org/wiki/Abigail_Breslin#/media/Fichier:Abigail_Breslin_by_Gage_Skidmore.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Harry Potter et le Prince de sang-mêlé",
+    "date": 2009,
+    "genre": [
+        "Fantasy"
+    ],
+    "acteur": [
+        {
+            "nom": "Daniel Radcliffe",
+            "lien": "https://fr.wikipedia.org/wiki/Daniel_Radcliffe#/media/Fichier:DanielRadcliffe.jpg"
+        },
+        {
+            "nom": "Rupert Grint",
+            "lien": "https://fr.wikipedia.org/wiki/Rupert_Grint#/media/Fichier:Rupert_Grint_at_Berlin_Film_Festival_2026,_(P1230719).jpg"
+        },
+        {
+            "nom": "Emma Watson",
+            "lien": "https://fr.wikipedia.org/wiki/Emma_Watson#/media/Fichier:Emma_Watson_in_September_2025_in_an_interview_for_Jay_Shetty_Podcast_(Youtube_channel).jpg"
+        },
+        {
+            "nom": "Michael Gambon",
+            "lien": "https://fr.wikipedia.org/wiki/Michael_Gambon#/media/Fichier:Michael_Gambon_cropped.jpg"
+        },
+        {
+            "nom": "Jim Broadbent",
+            "lien": "https://fr.wikipedia.org/wiki/Jim_Broadbent#/media/Fichier:Jim_Broadbent_2012.jpg"
+        },
+        {
+            "nom": "Alan Rickman",
+            "lien": "https://fr.wikipedia.org/wiki/Alan_Rickman#/media/Fichier:Alan_Rickman_after_Seminar_(3).jpg"
+        }
+    ]
+    },
+    {
+    "film": "Star Trek",
+    "date": 2009,
+    "genre": [
+        "Science-fiction"
+    ],
+    "acteur": [
+        {
+            "nom": "Chris Pine",
+            "lien": "https://fr.wikipedia.org/wiki/Chris_Pine#/media/Fichier:Chris_Pine_(Cropped).jpg"
+        },
+        {
+            "nom": "Zachary Quinto",
+            "lien": "https://fr.wikipedia.org/wiki/Zachary_Quinto#/media/Fichier:Zachary_Quinto_at_the_2025_Toronto_International_Film_Festival.jpg"
+        },
+        {
+            "nom": "Karl Urban",
+            "lien": "https://fr.wikipedia.org/wiki/Karl_Urban#/media/Fichier:Karl_Urban_at_53rd_Saturn_Awards_2026.jpg"
+        },
+        {
+            "nom": "Simon Pegg",
+            "lien": "https://fr.wikipedia.org/wiki/Simon_Pegg#/media/Fichier:Simon_Pegg_by_Gage_Skidmore_3.jpg"
+        },
+        {
+            "nom": "Zoe Saldaña",
+            "lien": "https://fr.wikipedia.org/wiki/Zoe_Salda%C3%B1a#/media/Fichier:Zoe_Salda%C3%B1a_at_the_2024_Toronto_International_Film_Festival_2_(cropped_2).jpg"
+        },
+        {
+            "nom": "Leonard Nimoy",
+            "lien": "https://fr.wikipedia.org/wiki/Leonard_Nimoy#/media/Fichier:Leonard_Nimoy_mid_1960s.JPG"
+        }
+    ]
+    },
+    {
+    "film": "500 jours ensemble",
+    "date": 2009,
+    "genre": [
+        "Comédie",
+        "Romance"
+    ],
+    "acteur": [
+        {
+            "nom": "Joseph Gordon-Levitt",
+            "lien": "https://fr.wikipedia.org/wiki/Joseph_Gordon-Levitt#/media/Fichier:Joseph_Gordon_Levitt_Sundance_Film_Festival_2026_(cropped).jpg"
+        },
+        {
+            "nom": "Zooey Deschanel",
+            "lien": "https://fr.wikipedia.org/wiki/Zooey_Deschanel#/media/Fichier:Zooey_Deschanel_-_Song_Sung_Blue.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Watchmen : Les Gardiens",
+    "date": 2009,
+    "genre": [
+        "Science-fiction",
+        "Super-héros"
+    ],
+    "acteur": [
+        {
+            "nom": "Jackie Earle Haley",
+            "lien": "https://fr.wikipedia.org/wiki/Jackie_Earle_Haley#/media/Fichier:Jackie_Earle_Haley_at_WonderCon_2010_2.JPG"
+        },
+        {
+            "nom": "Patrick Wilson",
+            "lien": "https://fr.wikipedia.org/wiki/Patrick_Wilson#/media/Fichier:Patrick_Wilson_Jay_Kelly-51_(cropped).jpg"
+        },
+        {
+            "nom": "Billy Crudup",
+            "lien": "https://fr.wikipedia.org/wiki/Billy_Crudup#/media/Fichier:Billy_Crudup_Jay_Kelly-10_(cropped).jpg"
+        },
+        {
+            "nom": "Malin Åkerman",
+            "lien": "https://fr.wikipedia.org/wiki/Malin_%C3%85kerman#/media/Fichier:Malin_%C3%85kerman_Eurovision_Song_Contest_2024_Final_Malm%C3%B6_press_conference_presenters_01.jpg"
+        },
+        {
+            "nom": "Matthew Goode",
+            "lien": "https://fr.wikipedia.org/wiki/Matthew_Goode#/media/Fichier:Matthew_Goode.jpg"
+        },
+        {
+            "nom": "Jeffrey Dean Morgan",
+            "lien": "https://fr.wikipedia.org/wiki/Jeffrey_Dean_Morgan#/media/Fichier:Jeffrey_Dean_Morgan_by_Gage_Skidmore_3.jpg"
+        }
+    ]
+    },
+    {
+    "film": "X-Men Origins: Wolverine",
+    "date": 2009,
+    "genre": [
+        "Super-héros"
+    ],
+    "acteur": [
+        {
+            "nom": "Hugh Jackman",
+            "lien": "https://fr.wikipedia.org/wiki/Hugh_Jackman#/media/Fichier:Hugh_Jackman_Is_This_Thing_On-68_(cropped).jpg"
+        },
+        {
+            "nom": "Liev Schreiber",
+            "lien": "https://fr.wikipedia.org/wiki/Liev_Schreiber#/media/Fichier:MJK_08465_Liev_Schreiber_(Berlinale_2018)_crop.jpg"
+        },
+        {
+            "nom": "Danny Huston",
+            "lien": "https://fr.wikipedia.org/wiki/Danny_Huston#/media/Fichier:Danny_Huston_(29620934491).jpg"
+        },
+        {
+            "nom": "Ryan Reynolds",
+            "lien": "https://fr.wikipedia.org/wiki/Ryan_Reynolds#/media/Fichier:Deadpool_&_Wolverine_panel_by_Gage_Skidmore_(cropped).jpg"
+        },
+        {
+            "nom": "Will.i.am",
+            "lien": "https://fr.wikipedia.org/wiki/Will.i.am#/media/Fichier:Will.i.am_in_2018.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Inception",
+    "date": 2010,
+    "genre": [
+        "Thriller",
+        "Science-fiction"
+    ],
+    "acteur": [
+        {
+            "nom": "Leonardo DiCaprio",
+            "lien": "https://fr.wikipedia.org/wiki/Leonardo_DiCaprio#/media/Fichier:LeoPTABFI191125-28_(cropped).jpg"
+        },
+        {
+            "nom": "Joseph Gordon-Levitt",
+            "lien": "https://fr.wikipedia.org/wiki/Joseph_Gordon-Levitt#/media/Fichier:Joseph_Gordon_Levitt_Sundance_Film_Festival_2026_(cropped).jpg"
+        },
+        {
+            "nom": "Elliot Page",
+            "lien": "https://fr.wikipedia.org/wiki/Elliot_Page#/media/Fichier:2023_National_Book_Festival_(53122454007)_(cropped).jpg"
+        },
+        {
+            "nom": "Tom Hardy",
+            "lien": "https://fr.wikipedia.org/wiki/Tom_Hardy#/media/Fichier:Tom_Hardy_by_Gage_Skidmore_in_2018.jpg"
+        },
+        {
+            "nom": "Ken Watanabe",
+            "lien": "https://fr.wikipedia.org/wiki/Ken_Watanabe#/media/Fichier:Ken_Watanabe_20220615.jpg"
+        },
+        {
+            "nom": "Marion Cotillard",
+            "lien": "https://fr.wikipedia.org/wiki/Marion_Cotillard#/media/Fichier:Marion_Cotillard_at_2019_Cannes.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Shutter Island",
+    "date": 2010,
+    "genre": [
+        "Thriller",
+        "Psychologique",
+        "Drame",
+        "Néo-noir"
+    ],
+    "acteur": [
+        {
+            "nom": "Leonardo DiCaprio",
+            "lien": "https://fr.wikipedia.org/wiki/Leonardo_DiCaprio#/media/Fichier:LeoPTABFI191125-28_(cropped).jpg"
+        },
+        {
+            "nom": "Mark Ruffalo",
+            "lien": "https://fr.wikipedia.org/wiki/Mark_Ruffalo#/media/Fichier:Mark_Ruffalo_in_2017_by_Gage_Skidmore.jpg"
+        },
+        {
+            "nom": "Ben Kingsley",
+            "lien": "https://fr.wikipedia.org/wiki/Ben_Kingsley#/media/Fichier:Sir_Ben_Kingsley_2012.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Iron Man 2",
+    "date": 2010,
+    "genre": [
+        "Action",
+        "Super-héros"
+    ],
+    "acteur": [
+        {
+            "nom": "Robert Downey Jr.",
+            "lien": "https://fr.wikipedia.org/wiki/Robert_Downey_Jr.#/media/Fichier:Robert_Downey_Jr_2014_Comic_Con_(cropped).jpg"
+        },
+        {
+            "nom": "Gwyneth Paltrow",
+            "lien": "https://fr.wikipedia.org/wiki/Gwyneth_Paltrow#/media/Fichier:Gwyneth_Paltrow_-_Marty_Supreme.jpg"
+        },
+        {
+            "nom": "Don Cheadle",
+            "lien": "https://fr.wikipedia.org/wiki/Don_Cheadle#/media/Fichier:Don_Cheadle_at_Jimmy_Kimmel_Live!_(cropped).jpg"
+        },
+        {
+            "nom": "Mickey Rourke",
+            "lien": "https://fr.wikipedia.org/wiki/Mickey_Rourke#/media/Fichier:Mickey_Rourke_Tribeca_2009_Shankbone.jpg"
+        },
+        {
+            "nom": "Samuel L. Jackson",
+            "lien": "https://fr.wikipedia.org/wiki/Samuel_L._Jackson#/media/Fichier:SamuelLJackson.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Black Swan",
+    "date": 2010,
+    "genre": [
+        "Thriller"
+    ],
+    "acteur": [
+        {
+            "nom": "Natalie Portman",
+            "lien": "https://fr.wikipedia.org/wiki/Natalie_Portman#/media/Fichier:Natalie_Portman-4352_(cropped).jpg"
+        },
+        {
+            "nom": "Vincent Cassel",
+            "lien": "https://fr.wikipedia.org/wiki/Vincent_Cassel#/media/Fichier:Vincent_Cassel_at_the_2025_Toronto_International_Film_Festival.jpg"
+        },
+        {
+            "nom": "Mila Kunis",
+            "lien": "https://fr.wikipedia.org/wiki/Mila_Kunis#/media/Fichier:Mila_Kunis_Toronto_International_Film_Festival_2025_5.jpg"
+        },
+        {
+            "nom": "Barbara Hershey",
+            "lien": "https://fr.wikipedia.org/wiki/Barbara_Hershey#/media/Fichier:Barbara_Hershey_by_Gage_Skidmore.jpg"
+        },
+        {
+            "nom": "Winona Ryder",
+            "lien": "https://fr.wikipedia.org/wiki/Winona_Ryder#/media/Fichier:Winona_Ryder-63849.jpg"
+        }
+    ]
+    },
+    {
+    "film": "The social network",
+    "date": 2010,
+    "genre": [
+        "Drame",
+        "Biographie"
+    ],
+    "acteur": [
+        {
+            "nom": "Jesse Eisenberg",
+            "lien": "https://fr.wikipedia.org/wiki/Jesse_Eisenberg#/media/Fichier:JesseEisenberg-byPhilipRomano.jpg"
+        },
+        {
+            "nom": "Andrew Garfield",
+            "lien": "https://fr.wikipedia.org/wiki/Andrew_Garfield#/media/Fichier:Andrew_Garfield_After_The_Hunt-22_(cropped).jpg"
+        },
+        {
+            "nom": "Justin Timberlake",
+            "lien": "https://fr.wikipedia.org/wiki/Justin_Timberlake#/media/Fichier:Justin_Timberlake_by_Gage_Skidmore_2.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Le discours d’un roi",
+    "date": 2010,
+    "genre": [
+        "Drame",
+        "Historique",
+        "Biopic"
+    ],
+    "acteur": [
+        {
+            "nom": "Colin Firth",
+            "lien": "https://fr.wikipedia.org/wiki/Colin_Firth#/media/Fichier:Colin_Firth_by_Gage_Skidmore_2.jpg"
+        },
+        {
+            "nom": "Geoffrey Rush",
+            "lien": "https://fr.wikipedia.org/wiki/Geoffrey_Rush#/media/Fichier:Gala_de_%C3%AEnchidere_TIFF.22_2023_(52983461438)~2.jpg"
+        },
+        {
+            "nom": "Helena Bonham Carter",
+            "lien": "https://fr.wikipedia.org/wiki/Helena_Bonham_Carter#/media/Fichier:MerchantIvoryCurzMayfair201124_(9_of_28)_(54154554480)_(cropped).jpg"
+        }
+    ]
+    },
+    {
+    "film": "Harry Potter et les reliques de la mort - 1ère partie",
+    "date": 2010,
+    "genre": [
+        "Fantasy"
+    ],
+    "acteur": [
+        {
+            "nom": "Daniel Radcliffe",
+            "lien": "https://fr.wikipedia.org/wiki/Daniel_Radcliffe#/media/Fichier:DanielRadcliffe.jpg"
+        },
+        {
+            "nom": "Rupert Grint",
+            "lien": "https://fr.wikipedia.org/wiki/Rupert_Grint#/media/Fichier:Rupert_Grint_at_Berlin_Film_Festival_2026,_(P1230719).jpg"
+        },
+        {
+            "nom": "Emma Watson",
+            "lien": "https://fr.wikipedia.org/wiki/Emma_Watson#/media/Fichier:Emma_Watson_in_September_2025_in_an_interview_for_Jay_Shetty_Podcast_(Youtube_channel).jpg"
+        },
+        {
+            "nom": "Ralph Fiennes",
+            "lien": "https://fr.wikipedia.org/wiki/Ralph_Fiennes#/media/Fichier:Ralph_Fiennes_2024.jpg"
+        },
+        {
+            "nom": "Alan Rickman",
+            "lien": "https://fr.wikipedia.org/wiki/Alan_Rickman#/media/Fichier:Alan_Rickman_after_Seminar_(3).jpg"
+        }
+    ]
+    },
+    {
+    "film": "Kick-Ass",
+    "date": 2010,
+    "genre": [
+        "Action",
+        "Super-héros",
+        "Comédie"
+    ],
+    "acteur": [
+        {
+            "nom": "Aaron Johnson",
+            "lien": "https://fr.wikipedia.org/wiki/Aaron_Taylor-Johnson#/media/Fichier:Aaron_Taylor-Johnson_at_82nd_Venice_International_Film_Festival-1_(cropped).jpg"
+        },
+        {
+            "nom": "Christopher Mintz-Plasse",
+            "lien": "https://fr.wikipedia.org/wiki/Christopher_Mintz-Plasse#/media/Fichier:Christopher_Mintz-Plasse_by_Gage_Skidmore.jpg"
+        },
+        {
+            "nom": "Chloë Grace Moretz",
+            "lien": "https://fr.wikipedia.org/wiki/Chlo%C3%AB_Grace_Moretz#/media/Fichier:Chlo%C3%AB_Grace_Moretz_The_Peripheral_NYCC_2022_(cropped).jpg"
+        },
+        {
+            "nom": "Nicolas Cage",
+            "lien": "https://fr.wikipedia.org/wiki/Nicolas_Cage#/media/Fichier:Nicolas_Cage_Deauville_2013_2.jpg"
+        },
+        {
+            "nom": "Mark Strong",
+            "lien": "https://fr.wikipedia.org/wiki/Mark_Strong#/media/Fichier:Mark_Strong.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Scott Pilgrim",
+    "date": 2010,
+    "genre": [
+        "Comédie",
+        "Action",
+        "Fantastique"
+    ],
+    "acteur": [
+        {
+            "nom": "Michael Cera",
+            "lien": "https://fr.wikipedia.org/wiki/Michael_Cera#/media/Fichier:MKr22364_Michael_Cera_(The_Adults,_Berlinale_2023).jpg"
+        },
+        {
+            "nom": "Mary Elizabeth Winstead",
+            "lien": "https://fr.wikipedia.org/wiki/Mary_Elizabeth_Winstead#/media/Fichier:Mary_Elizabeth_Winstead_2024.png"
+        }
+    ]
+    },
+    {
+    "film": "The Town",
+    "date": 2010,
+    "genre": [
+        "Thriller"
+    ],
+    "acteur": [
+        {
+            "nom": "Ben Affleck",
+            "lien": "https://fr.wikipedia.org/wiki/Ben_Affleck#/media/Fichier:Ben_Affleck_on_the_Red_Carpet,_SXSW_2023_(cropped).jpg"
+        },
+        {
+            "nom": "Jeremy Renner",
+            "lien": "https://fr.wikipedia.org/wiki/Jeremy_Renner#/media/Fichier:Jeremy_Renner_at_TIFF_2025_(cropped).jpg"
+        },
+        {
+            "nom": "Rebecca Hall",
+            "lien": "https://fr.wikipedia.org/wiki/Rebecca_Hall#/media/Fichier:Rebecca_Hall_(2024)_(cropped).jpg"
+        },
+        {
+            "nom": "Jon Hamm",
+            "lien": "https://fr.wikipedia.org/wiki/Jon_Hamm#/media/Fichier:JonHamm-byPhilipRomano.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Harry Potter et les reliques de la mort - 2ème partie",
+    "date": 2011,
+    "genre": [
+        "Fantasy"
+    ],
+    "acteur": [
+        {
+            "nom": "Daniel Radcliffe",
+            "lien": "https://fr.wikipedia.org/wiki/Daniel_Radcliffe#/media/Fichier:DanielRadcliffe.jpg"
+        },
+        {
+            "nom": "Emma Watson",
+            "lien": "https://fr.wikipedia.org/wiki/Emma_Watson#/media/Fichier:Emma_Watson_in_September_2025_in_an_interview_for_Jay_Shetty_Podcast_(Youtube_channel).jpg"
+        },
+        {
+            "nom": "Rupert Grint",
+            "lien": "https://fr.wikipedia.org/wiki/Rupert_Grint#/media/Fichier:Rupert_Grint_at_Berlin_Film_Festival_2026,_(P1230719).jpg"
+        },
+        {
+            "nom": "Ralph Fiennes",
+            "lien": "https://fr.wikipedia.org/wiki/Ralph_Fiennes#/media/Fichier:Ralph_Fiennes_2024.jpg"
+        },
+        {
+            "nom": "Alan Rickman",
+            "lien": "https://fr.wikipedia.org/wiki/Alan_Rickman#/media/Fichier:Alan_Rickman_after_Seminar_(3).jpg"
+        }
+    ]
+    },
+    {
+    "film": "Intouchables",
+    "date": 2011,
+    "genre": [
+        "Biopic",
+        "Comédie",
+        "Drame"
+    ],
+    "acteur": [
+        {
+            "nom": "François Cluzet",
+            "lien": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Cluzet#/media/Fichier:Fran%C3%A7ois_Cluzet_C%C3%A9sars_2014.jpg"
+        },
+        {
+            "nom": "Omar Sy",
+            "lien": "https://fr.wikipedia.org/wiki/Omar_Sy#/media/Fichier:Omar_Sy_(2020).jpg"
+        }
+    ]
+    },
+    {
+    "film": "Captain America: First Avenger",
+    "date": 2011,
+    "genre": [
+        "Action",
+        "Super-héros"
+    ],
+    "acteur": [
+        {
+            "nom": "Chris Evans",
+            "lien": "https://fr.wikipedia.org/wiki/Chris_Evans_(acteur)#/media/Fichier:Chris_Evans_at_the_2025_Toronto_International_Film_Festival_(cropped).jpg"
+        },
+        {
+            "nom": "Hugo Weaving",
+            "lien": "https://fr.wikipedia.org/wiki/Hugo_Weaving#/media/Fichier:Hugo_Weaving.jpg"
+        },
+        {
+            "nom": "Hayley Atwell",
+            "lien": "https://fr.wikipedia.org/wiki/Hayley_Atwell#/media/Fichier:Hayley_Atwell-2771.jpg"
+        },
+        {
+            "nom": "Stanley Tucci",
+            "lien": "https://fr.wikipedia.org/wiki/Stanley_Tucci#/media/Fichier:ConclaveBFILFF101024_(9_of_44)_(54062519935)_(cropped).jpg"
+        },
+        {
+            "nom": "Tommy Lee Jones",
+            "lien": "https://fr.wikipedia.org/wiki/Tommy_Lee_Jones#/media/Fichier:Tommy_Lee_Jones_2017.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Thor",
+    "date": 2011,
+    "genre": [
+        "Science-fiction",
+        "Super-héros"
+    ],
+    "acteur": [
+        {
+            "nom": "Chris Hemsworth",
+            "lien": "https://fr.wikipedia.org/wiki/Chris_Hemsworth#/media/Fichier:Chris_Hemsworth_by_Gage_Skidmore_3.jpg"
+        },
+        {
+            "nom": "Natalie Portman",
+            "lien": "https://fr.wikipedia.org/wiki/Natalie_Portman#/media/Fichier:Natalie_Portman-4352_(cropped).jpg"
+        },
+        {
+            "nom": "Tom Hiddleston",
+            "lien": "https://fr.wikipedia.org/wiki/Tom_Hiddleston#/media/Fichier:Tom_Hiddleston_at_the_2024_Toronto_International_Film_Festival_(cropped).jpg"
+        },
+        {
+            "nom": "Anthony Hopkins",
+            "lien": "https://fr.wikipedia.org/wiki/Anthony_Hopkins#/media/Fichier:Anthony_Hopkins_Red_Sea_Festival_2025_Portrait.jpg"
+        },
+        {
+            "nom": "Stellan Skarsgård",
+            "lien": "https://fr.wikipedia.org/wiki/Stellan_Skarsg%C3%A5rd#/media/Fichier:Stellan_Skarsg%C3%A5rd-9707.jpg"
+        }
+    ]
+    },
+    {
+    "film": "X-Men : Le Commencement",
+    "date": 2011,
+    "genre": [
+        "Super-héros"
+    ],
+    "acteur": [
+        {
+            "nom": "James McAvoy",
+            "lien": "https://fr.wikipedia.org/wiki/James_McAvoy#/media/Fichier:James_McAvoy_by_Gage_Skidmore_2.jpg"
+        },
+        {
+            "nom": "Michael Fassbender",
+            "lien": "https://fr.wikipedia.org/wiki/Michael_Fassbender#/media/Fichier:Michael_Fassbender_by_Gage_Skidmore_2015.jpg"
+        },
+        {
+            "nom": "Kevin Bacon",
+            "lien": "https://fr.wikipedia.org/wiki/Kevin_Bacon#/media/Fichier:Kevin_Bacon_The_Best_You_Can-55_(cropped).jpg"
+        },
+        {
+            "nom": "Jennifer Lawrence",
+            "lien": "https://fr.wikipedia.org/wiki/Jennifer_Lawrence#/media/Fichier:Jennifer_Lawrence,_Cannes_Film_Festival_2025.jpg"
+        },
+        {
+            "nom": "January Jones",
+            "lien": "https://fr.wikipedia.org/wiki/January_Jones#/media/Fichier:January_Jones_(8290347069)_(cropped).jpg"
+        }
+    ]
+    },
+    {
+    "film": "Drive",
+    "date": 2011,
+    "genre": [
+        "Thriller",
+        "Néo-noir"
+    ],
+    "acteur": [
+        {
+            "nom": "Ryan Gosling",
+            "lien": "https://fr.wikipedia.org/wiki/Ryan_Gosling#/media/Fichier:Ryan_Gosling_-_2023_(53389514500)_(cropped).jpg"
+        },
+        {
+            "nom": "Carey Mulligan",
+            "lien": "https://fr.wikipedia.org/wiki/Carey_Mulligan#/media/Fichier:Carey_Mulligan_at_the_2025_Sundance_Film_Festival_(cropped).jpg"
+        },
+        {
+            "nom": "Bryan Cranston",
+            "lien": "https://fr.wikipedia.org/wiki/Bryan_Cranston#/media/Fichier:Bryan_Cranston_(54110629758)_(cropped).jpg"
+        },
+        {
+            "nom": "Ron Perlman",
+            "lien": "https://fr.wikipedia.org/wiki/Ron_Perlman#/media/Fichier:Ron_Perlman_Photo_Op_GalaxyCon_Raleigh_2024.jpg"
+        },
+        {
+            "nom": "Albert Brooks",
+            "lien": "https://fr.wikipedia.org/wiki/Albert_Brooks#/media/Fichier:Albert_Brooks_at_'Drive'_premiere_TIFF_9.10.11.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Limitless",
+    "date": 2011,
+    "genre": [
+        "Thriller"
+    ],
+    "acteur": [
+        {
+            "nom": "Bradley Cooper",
+            "lien": "https://fr.wikipedia.org/wiki/Bradley_Cooper#/media/Fichier:Bradley_Cooper_Is_This_Thing_On-41_(cropped).jpg"
+        },
+        {
+            "nom": "Abbie Cornish",
+            "lien": "https://fr.wikipedia.org/wiki/Abbie_Cornish#/media/Fichier:Abbie_Cornish_(2017)_(cropped).jpg"
+        },
+        {
+            "nom": "Robert De Niro",
+            "lien": "https://fr.wikipedia.org/wiki/Robert_De_Niro#/media/Fichier:Robert_De_Niro_at_Cannes_2025_at_a_Photocall_06.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Crazy, stupid, love",
+    "date": 2011,
+    "genre": [
+        "Comédie",
+        "Romance"
+    ],
+    "acteur": [
+        {
+            "nom": "Steve Carell",
+            "lien": "https://fr.wikipedia.org/wiki/Steve_Carell#/media/Fichier:Steve_Carell_-_The_40-Year-Old-Virgin.jpg"
+        },
+        {
+            "nom": "Ryan Gosling",
+            "lien": "https://fr.wikipedia.org/wiki/Ryan_Gosling#/media/Fichier:Ryan_Gosling_-_2023_(53389514500)_(cropped).jpg"
+        },
+        {
+            "nom": "Julianne Moore",
+            "lien": "https://fr.wikipedia.org/wiki/Julianne_Moore#/media/Fichier:Julianne_Moore_2024_(facecrop2).jpg"
+        },
+        {
+            "nom": "Emma Stone",
+            "lien": "https://fr.wikipedia.org/wiki/Emma_Stone#/media/Fichier:Emma_Stone_at_the_2025_Cannes_Film_Festival_04.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Pirates des Caraïbes: La Fontaine de Jouvence",
+    "date": 2011,
+    "genre": [
+        "Aventure",
+        "Fantastique"
+    ],
+    "acteur": [
+        {
+            "nom": "Johnny Depp",
+            "lien": "https://fr.wikipedia.org/wiki/Johnny_Depp#/media/Fichier:Johnny_Depp_2020.jpg"
+        },
+        {
+            "nom": "Penélope Cruz",
+            "lien": "https://fr.wikipedia.org/wiki/Pen%C3%A9lope_Cruz#/media/Fichier:Goyas_2024_-_Pen%C3%A9lope_Cruz-2_(cropped).jpg"
+        },
+        {
+            "nom": "Geoffrey Rush",
+            "lien": "https://fr.wikipedia.org/wiki/Geoffrey_Rush#/media/Fichier:Gala_de_%C3%AEnchidere_TIFF.22_2023_(52983461438)~2.jpg"
+        },
+        {
+            "nom": "Ian McShane",
+            "lien": "https://fr.wikipedia.org/wiki/Ian_McShane#/media/Fichier:McShaneTamLinRio311022_(1_of_21)_(52470810951)_(cropped).jpg"
+        }
+    ]
+    },
+    {
+    "film": "La Planète des singes : Les Origines",
+    "date": 2011,
+    "genre": [
+        "Science-fiction"
+    ],
+    "acteur": [
+        {
+            "nom": "Andy Serkis",
+            "lien": "https://fr.wikipedia.org/wiki/Andy_Serkis#/media/Fichier:Andy_Serkis_at_MEGACON_Orlando_2025.png"
+        },
+        {
+            "nom": "Freida Pinto",
+            "lien": "https://fr.wikipedia.org/wiki/Freida_Pinto#/media/Fichier:Malala_and_Freida_Pinto_meet_the_Youth_For_Change_panel_cropped_frida.jpg"
+        },
+        {
+            "nom": "James Franco",
+            "lien": "https://fr.wikipedia.org/wiki/James_Franco#/media/Fichier:James_Franco_4,_2013.jpg"
+        },
+        {
+            "nom": "John Lithgow",
+            "lien": "https://fr.wikipedia.org/wiki/John_Lithgow#/media/Fichier:John_Lithgow_at_Met_Opera_Opening_in_2008.jpg"
+        },
+        {
+            "nom": "Tom Felton",
+            "lien": "https://fr.wikipedia.org/wiki/Tom_Felton#/media/Fichier:Tom_Felton_at_the_2025_Toronto_International_Film_Festival_(cropped).jpg"
+        }
+    ]
+    },
+    {
+    "film": "The Dark Knight Rises",
+    "date": 2012,
+    "genre": [
+        "Action",
+        "Super-héros"
+    ],
+    "acteur": [
+        {
+            "nom": "Christian Bale",
+            "lien": "https://fr.wikipedia.org/wiki/Christian_Bale#/media/Fichier:Christian_Bale-7837.jpg"
+        },
+        {
+            "nom": "Michael Caine",
+            "lien": "https://fr.wikipedia.org/wiki/Michael_Caine#/media/Fichier:Sir_Michael_Caine,_28th_EFA_Awards_2015,_Berlin_(cropped).jpg"
+        },
+        {
+            "nom": "Gary Oldman",
+            "lien": "https://fr.wikipedia.org/wiki/Gary_Oldman#/media/Fichier:Gary_Oldman_Cannes_2018.jpg"
+        },
+        {
+            "nom": "Anne Hathaway",
+            "lien": "https://fr.wikipedia.org/wiki/Anne_Hathaway#/media/Fichier:Anne_Hathaway_at_The_Apprentice_in_NYC_03_(cropped2).jpg"
+        },
+        {
+            "nom": "Tom Hardy",
+            "lien": "https://fr.wikipedia.org/wiki/Tom_Hardy#/media/Fichier:Tom_Hardy_by_Gage_Skidmore_in_2018.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Django Unchained",
+    "date": 2012,
+    "genre": [
+        "Néo-western"
+    ],
+    "acteur": [
+        {
+            "nom": "Jamie Foxx",
+            "lien": "https://fr.wikipedia.org/wiki/Jamie_Foxx#/media/Fichier:TIFF_2019_jamie_foxx_(cropped).jpg"
+        },
+        {
+            "nom": "Christoph Waltz",
+            "lien": "https://fr.wikipedia.org/wiki/Christoph_Waltz#/media/Fichier:Christoph_Waltz_at_82nd_Venice_International_Film_Festival-1_(cropped).jpg"
+        },
+        {
+            "nom": "Leonardo DiCaprio",
+            "lien": "https://fr.wikipedia.org/wiki/Leonardo_DiCaprio#/media/Fichier:LeoPTABFI191125-28_(cropped).jpg"
+        },
+        {
+            "nom": "Samuel L. Jackson",
+            "lien": "https://fr.wikipedia.org/wiki/Samuel_L._Jackson#/media/Fichier:SamuelLJackson.jpg"
+        },
+        {
+            "nom": "Kerry Washington",
+            "lien": "https://fr.wikipedia.org/wiki/Kerry_Washington#/media/Fichier:Kerry_Washington_in_(2024)_(cropped).jpg"
+        }
+    ]
+    },
+    {
+    "film": "Avengers",
+    "date": 2012,
+    "genre": [
+        "Science-fiction",
+        "Super-héros"
+    ],
+    "acteur": [
+        {
+            "nom": "Chris Evans",
+            "lien": "https://fr.wikipedia.org/wiki/Chris_Evans_(acteur)#/media/Fichier:Chris_Evans_at_the_2025_Toronto_International_Film_Festival_(cropped).jpg"
+        },
+        {
+            "nom": "Robert Downey Jr.",
+            "lien": "https://fr.wikipedia.org/wiki/Robert_Downey_Jr.#/media/Fichier:Robert_Downey_Jr_2014_Comic_Con_(cropped).jpg"
+        },
+        {
+            "nom": "Mark Ruffalo",
+            "lien": "https://fr.wikipedia.org/wiki/Mark_Ruffalo#/media/Fichier:Mark_Ruffalo_in_2017_by_Gage_Skidmore.jpg"
+        },
+        {
+            "nom": "Chris Hemsworth",
+            "lien": "https://fr.wikipedia.org/wiki/Chris_Hemsworth#/media/Fichier:Chris_Hemsworth_by_Gage_Skidmore_3.jpg"
+        },
+        {
+            "nom": "Scarlett Johansson",
+            "lien": "https://fr.wikipedia.org/wiki/Scarlett_Johansson#/media/Fichier:Scarlett_Johansson_293_(cropped2).jpg"
+        },
+        {
+            "nom": "Jeremy Renner",
+            "lien": "https://fr.wikipedia.org/wiki/Jeremy_Renner#/media/Fichier:Jeremy_Renner_at_TIFF_2025_(cropped).jpg"
+        },
+        {
+            "nom": "Samuel L. Jackson",
+            "lien": "https://fr.wikipedia.org/wiki/Samuel_L._Jackson#/media/Fichier:SamuelLJackson.jpg"
+        }
+    ]
+    },
+   {
+    "film": "Le Hobbit: un voyage inattendu",
+    "date": 2012,
+    "genre": [
+        "Fantasy"
+    ],
+    "acteur": [
+        {
+            "nom": "Martin Freeman",
+            "lien": "https://fr.wikipedia.org/wiki/Martin_Freeman#/media/Fichier:Martin_Freeman-5341.jpg"
+        },
+        {
+            "nom": "Ian McKellen",
+            "lien": "https://fr.wikipedia.org/wiki/Ian_McKellen#/media/Fichier:SDCC13_-_Ian_McKellen.jpg"
+        },
+        {
+            "nom": "Richard Armitage",
+            "lien": "https://fr.wikipedia.org/wiki/Richard_Armitage#/media/Fichier:Richard_Armitage_2014_WonderCon_(cropped).jpg"
+        },
+        {
+            "nom": "Andy Serkis",
+            "lien": "https://fr.wikipedia.org/wiki/Andy_Serkis#/media/Fichier:Andy_Serkis_at_MEGACON_Orlando_2025.png"
+        },
+        {
+            "nom": "Manu Bennett",
+            "lien": "https://fr.wikipedia.org/wiki/Manu_Bennett#/media/Fichier:Manu_Bennett_by_Gage_Skidmore.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Happiness Therapy",
+    "date": 2012,
+    "genre": [
+        "Comédie",
+        "Drame",
+        "Romance"
+    ],
+    "acteur": [
+        {
+            "nom": "Bradley Cooper",
+            "lien": "https://fr.wikipedia.org/wiki/Bradley_Cooper#/media/Fichier:Bradley_Cooper_Is_This_Thing_On-41_(cropped).jpg"
+        },
+        {
+            "nom": "Jennifer Lawrence",
+            "lien": "https://fr.wikipedia.org/wiki/Jennifer_Lawrence#/media/Fichier:Jennifer_Lawrence,_Cannes_Film_Festival_2025.jpg"
+        },
+        {
+            "nom": "Robert De Niro",
+            "lien": "https://fr.wikipedia.org/wiki/Robert_De_Niro#/media/Fichier:Robert_De_Niro_at_Cannes_2025_at_a_Photocall_06.jpg"
+        },
+        {
+            "nom": "Anupam Kher",
+            "lien": "https://fr.wikipedia.org/wiki/Anupam_Kher#/media/Fichier:Anupam_Kher_and_Kirron_Kher.jpg"
+        },
+        {
+            "nom": "Chris Tucker",
+            "lien": "https://fr.wikipedia.org/wiki/Chris_Tucker#/media/Fichier:Chris_Tucker_Cannes_2018.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Skyfall",
+    "date": 2012,
+    "genre": [
+        "Espionnage"
+    ],
+    "acteur": [
+        {
+            "nom": "Daniel Craig",
+            "lien": "https://fr.wikipedia.org/wiki/Daniel_Craig#/media/Fichier:Daniel_Craig_TIFF_2025_Red_Carpet_(cropped).jpg"
+        },
+        {
+            "nom": "Judi Dench",
+            "lien": "https://fr.wikipedia.org/wiki/Judi_Dench#/media/Fichier:Judi_Dench_at_the_BAFTAs_2007.jpg"
+        },
+        {
+            "nom": "Javier Bardem",
+            "lien": "https://fr.wikipedia.org/wiki/Javier_Bardem#/media/Fichier:Javier_Bardem_during_an_interview,_March_2022_(3)_(cropped).jpg"
+        },
+        {
+            "nom": "Ralph Fiennes",
+            "lien": "https://fr.wikipedia.org/wiki/Ralph_Fiennes#/media/Fichier:Ralph_Fiennes_2024.jpg"
+        },
+        {
+            "nom": "Bérénice Marlohe",
+            "lien": "https://fr.wikipedia.org/wiki/B%C3%A9r%C3%A9nice_Marlohe#/media/Fichier:BereniceMarloheHWOFNov2012.jpg"
+        }
+    ]
+    },
+    {
+    "film": "The Amazing Spider-Man",
+    "date": 2012,
+    "genre": [
+        "Super-héros"
+    ],
+    "acteur": [
+        {
+            "nom": "Andrew Garfield",
+            "lien": "https://fr.wikipedia.org/wiki/Andrew_Garfield#/media/Fichier:Andrew_Garfield_After_The_Hunt-22_(cropped).jpg"
+        },
+        {
+            "nom": "Emma Stone",
+            "lien": "https://fr.wikipedia.org/wiki/Emma_Stone#/media/Fichier:Emma_Stone_at_the_2025_Cannes_Film_Festival_04.jpg"
+        },
+        {
+            "nom": "Rhys Ifans",
+            "lien": "https://fr.wikipedia.org/wiki/Rhys_Ifans#/media/Fichier:Rhys_Ifans_(53290048890)_(cropped).jpg"
+        },
+        {
+            "nom": "Denis Leary",
+            "lien": "https://fr.wikipedia.org/wiki/Denis_Leary#/media/Fichier:Denis_Leary_by_Gage_Skidmore.jpg"
+        },
+        {
+            "nom": "Martin Sheen",
+            "lien": "https://fr.wikipedia.org/wiki/Martin_Sheen#/media/Fichier:Martin_Sheen_(54429290460).jpg"
+        }
+    ]
+    },
+    {
+    "film": "Ted",
+    "date": 2012,
+    "genre": [
+        "Comédie",
+        "Fantastique"
+    ],
+    "acteur": [
+        {
+            "nom": "Mark Wahlberg",
+            "lien": "https://fr.wikipedia.org/wiki/Mark_Wahlberg#/media/Fichier:Mark_Wahlberg_2021.jpg"
+        },
+        {
+            "nom": "Mila Kunis",
+            "lien": "https://fr.wikipedia.org/wiki/Mila_Kunis#/media/Fichier:Mila_Kunis_Toronto_International_Film_Festival_2025_5.jpg"
+        },
+        {
+            "nom": "Seth MacFarlane",
+            "lien": "https://fr.wikipedia.org/wiki/Seth_MacFarlane#/media/Fichier:Seth_MacFarlane_(7601665378).jpg"
+        }
+    ]
+    },
+    {
+    "film": "L’Odyssée de Pi",
+    "date": 2012,
+    "genre": [
+        "Aventure"
+    ],
+    "acteur": [
+        {
+            "nom": "Suraj Sharma",
+            "lien": "https://fr.wikipedia.org/wiki/Suraj_Sharma#/media/Fichier:Suraj_Sharma_2012_(Straighten_Crop).jpg"
+        },
+        {
+            "nom": "Irfan Khan",
+            "lien": "https://fr.wikipedia.org/wiki/Irfan_Khan#/media/Fichier:Irrfan_Khan_May_2015_(cropped).jpg"
+        },
+        {
+            "nom": "Tabu",
+            "lien": "https://fr.wikipedia.org/wiki/Tabu#/media/Fichier:Tabu_at_Esha_Deol's_wedding_reception_08.jpg"
+        },
+        {
+            "nom": "Gérard Depardieu",
+            "lien": "https://fr.wikipedia.org/wiki/G%C3%A9rard_Depardieu#/media/Fichier:G%C3%A9rard_Depardieu_Cannes_2010.jpg"
+        }
+    ]
+    },
+    {
+    "film": "Prometheus",
+    "date": 2012,
+    "genre": [
+        "Science-fiction"
+    ],
+    "acteur": [
+        {
+            "nom": "Idris Elba",
+            "lien": "https://fr.wikipedia.org/wiki/Idris_Elba#/media/Fichier:Idris_Elba_A_House_of_Dynamite-23.jpg"
+        },
+        {
+            "nom": "Michael Fassbender",
+            "lien": "https://fr.wikipedia.org/wiki/Michael_Fassbender#/media/Fichier:Michael_Fassbender_by_Gage_Skidmore_2015.jpg"
+        },
+        {
+            "nom": "Guy Pearce",
+            "lien": "https://fr.wikipedia.org/wiki/Guy_Pearce#/media/Fichier:Crew_members_of_the_movie_%22Genius%22_at_the_Berlinale_party_(25036107966)_(cropped).jpg"
+        },
+        {
+            "nom": "Noomi Rapace",
+            "lien": "https://fr.wikipedia.org/wiki/Noomi_Rapace#/media/Fichier:Noomi_Rapace_PFW_2019.jpg"
+        },
+        {
+            "nom": "Charlize Theron",
+            "lien": "https://fr.wikipedia.org/wiki/Charlize_Theron#/media/Fichier:Charlize-theron-IMG_6045.jpg"
+        }
+    ]
+    }
+    
+
+]
